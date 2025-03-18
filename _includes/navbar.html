@@ -1,0 +1,22 @@
+<nav class="navbar  navbar-expand-sm " data-bs-theme="dark">
+    <div class="container-fluid">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        {% for item in include.menu %}
+            {% if item.url == page.url %}
+            <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="{{ item.url }}">{{ item.title }}</a>
+            </li>
+            {% else %}
+            <li class="nav-item">
+                <a class="nav-link"  href="{{ item.url }}">{{ item.title }}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </nav>

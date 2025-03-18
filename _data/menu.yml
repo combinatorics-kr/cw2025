@@ -1,0 +1,18 @@
+menu:
+
+- title: Home
+  url: /
+- title: 역사
+  url: /history.html
+- title: English
+  url: /en/
+
+
+menuen:
+
+- title: Home
+  url: /en/
+- title: History
+  url: /en/history.html
+- title: 한국어
+  url: /
