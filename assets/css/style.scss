@@ -1,9 +1,14 @@
 ---
 ---
 
-$header-bg-color-secondary:#892b3c;
-$header-bg-color: #2d2d2d;
+$header-bg-color-secondary: #112233;
+$header-bg-color: #892b3c;
 $section-headings-color: #892b3c;
+body .project-name {
+    color: #FFFFCC;
+    font-family:  "Brush Script MT", cursive;
+    font-size: 500%;
+}
 
 div#logo {
     display: block;

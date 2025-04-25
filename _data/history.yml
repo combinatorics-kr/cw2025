@@ -2,7 +2,7 @@
   city: Seoul
   dates: August 16-17
   host: Yonsei University BK21 Research Group
-  url: http://matrix.skku.ac.kr/conference/2004Combnatorics2.htm
+  url: https://cw2004.combinatorics.kr/
   venue: Yonsei University
   year: 2004
 - n: 2
@@ -11,7 +11,7 @@
   host: Yonsei University BK21 Research Group
   title: 2005 Combinatorial Mathematics Conference
   titleko: 2005 조합수학 학술대회
-  url: http://matrix.skku.ac.kr/conference/2005Combnatorics.htm
+  url: https://cw2005.combinatorics.kr/
   venue: Yonsei University
   year: 2005
   organizer: Dongsu Kim, Seung Kyung Park, Sang-Gu Lee, Jaeun Lee 
@@ -20,7 +20,7 @@
   city: Gyeongsan
   dates: August 9-10
   host: Department of Mathematics, Yeongnam University
-  url: http://matrix.skku.ac.kr/2006-Album/2006-8-YNU.html
+  url: https://cw2006.combinatorics.kr/
   venue: Yeongnam University
   year: 2006
   organizerko: 이재운, 권영수
@@ -29,7 +29,7 @@
   city: Daejeon
   dates: August 6-8
   host: KAIST Combinatorics Lab
-  url: http://mathsci.kaist.ac.kr/workshop/combinatorics2007/index.html
+  url: https://cw2007.combinatorics.kr/
   venue: KAIST
   year: 2007
   organizer: Heesung Shin, Jang Soo Kim
@@ -39,7 +39,7 @@
   dates: August 7-8
   host: Sungkyunkwan University BK21 Division
   title: 2008 Workshop on Combinatorics
-  url: http://matrix.skku.ac.kr/conference/2008Combnatorics.htm
+  url: https://cw2008.combinatorics.kr/
   venue: Sungkyunkwan University
   year: 2008
   organizer: Gi-Sang Cheon, Sang-Gu Lee
@@ -48,7 +48,7 @@
   city: Daejeon
   dates: August 20-21
   host: KAIST ASARC
-  url: http://mathsci.kaist.ac.kr/workshop/combinatorics2009/
+  url: https://cw2009.combinatorics.kr/
   venue: KAIST
   year: 2009
   organizer: Soon-Yi Kang, Sang-il Oum
@@ -57,7 +57,7 @@
   city: Gyeongsan
   dates: August 20-21
   host: Department of Mathematics, Yeongnam University
-  url: https://www.combinatorics.kr/workshop/2010-combinatorics-workshop
+  url: https://cw2010.combinatorics.kr/
   venue: Yeongnam University
   year: 2010
   organizerko: 이재운, 권영수
@@ -75,7 +75,7 @@
   city: Gwangju
   dates: August 9-10
   host: Department of Mathematics, Chonnam National University
-  url: http://www.math.chonnam.ac.kr/swkim/cw2012/
+  url: https://cw2012.combinatorics.kr/
   venue: Chonnam National University
   year: 2012
   organizer: Hyeong-Kwan Ju, Sangwook Kim
@@ -93,7 +93,7 @@
   city: Suwon
   dates: October 31-November 1
   host: Department of Mathematics, Ajou University
-  url: https://web.archive.org/web/20160619232446/http://ajou.ac.kr/~schoi/Workshop/combinatorics2014/
+  url: https://cw2014.combinatorics.kr/
   venue: Ajou University
   year: 2014
   organizer: Soojin Cho, Suyoung Choi, Boram Park
@@ -170,7 +170,7 @@
   url: https://indico.ibs.re.kr/e/cw2022
   venue: GIST
   year: 2022
-  organzier: Jeong Ok Choi, Minki Kim, Sangwook Kim, Hong Liu
+  organizer: Jeong Ok Choi, Minki Kim, Sangwook Kim, Hong Liu
   organizerko: 최정옥, 김민기, 김상욱, Hong Liu 
 - n: 20
   city: Seoul
@@ -179,14 +179,23 @@
   url: https://cw2023.combinatorics.kr/
   venue: Yonsei University
   year: 2023
-  organzier: JiSun Huh, Sangwook Kim, Joonkyung Lee, Jaebum Sohn
+  organizer: JiSun Huh, Sangwook Kim, Joonkyung Lee, Jaebum Sohn
   organizerko: 허지선, 김상욱, 이준경, 손재범
 - n: 21
   city: Cheongju
   dates: August 28-30
-  host: Chungbuk National University
+  host: Chungbuk National University and IBS Discrete Mathematics Group
   url: https://cw2024.combinatorics.kr/
   venue: Chungbuk National University
   year: 2024
-  organzier: Doowon Koh, Eunjeong Lee, Sang-il Oum, Meesue Yoo
+  organizer: Doowon Koh, Eunjeong Lee, Sang-il Oum, Meesue Yoo
   organizerko: 고두원, 류미수, 엄상일, 이은정
+- n: 22
+  city: Daejeon
+  dates: August 18-20
+  host: IBS Discrete Mathematics Group
+  url: https://cw2025.combinatorics.kr/
+  venue: Institute for Basic Science
+  year: 2025
+  organizer: Jang Soo Kim, Sang-il Oum, Seunghyun Seo
+  organizerko: 김장수, 서승현, 엄상일

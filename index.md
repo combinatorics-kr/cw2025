@@ -12,12 +12,16 @@ layout: ko
 
 ## 초청연사 
 
-To be announced.
+- [권오정](http://ojkwon.com) (Hanyang University / IBS DIMAG)
+- [김동수](https://mathsci.kaist.ac.kr/~dskim/) (KAIST)
+- [김은정](https://www.lamsade.dauphine.fr/~kim/) (KAIST / CNRS / IBS DIMAG)
+- [이애자](https://science.psu.edu/math/people/auy2) (Penn State University)
+- [Zhicong Lin](http://en.mis.sdu.edu.cn/info/1527/1399.htm) (Shandong University)
+
 
 ## 일반 강연 (Contributed Talks)
 
 워크샵에서 연구 결과를 발표하길 원하시는 분들께서는 아래 홈페이지를 통하여 6월 20일까지 발표 제목과 초록을 제출해주시기 바랍니다.
-아래 링크를 통하여 IBS indico 홈페이지에 계정을 만든 후 초록 제출이 가능합니다.
 
 초록 제출 링크: 추후 공개 예정
 
@@ -25,8 +29,7 @@ To be announced.
 
 ## 일정 
 
-8월 18일 오후 2시 시작. 8월 20일 오후 3시 종료.
-
+추후 공지 
 
 ## 등록 
 
@@ -36,14 +39,17 @@ To be announced.
 
 ## 숙박 
 
-지정 호텔 추후 공개 예정.
+지정 호텔 추후 공개 예정. 인근 호텔: 오노마 호텔, ICC 호텔, I-HOTEL.
 
-학회 기간동안 모든 참가자들에게 점심식사와 저녁식사가 제공될 예정입니다. 숙박 지원이 필요한 경우 연락주시기 바랍니다. 
+학회 기간동안 모든 참가자들에게 저녁식사가 제공될 예정입니다. 
+숙박 지원이 필요하신 경우 알려주시기 바랍니다.
 
 ## 학회 장소 
 
 기초과학연구원 (IBS) 과학문화센터, 대전광역시 유성구 엑스포로 55 (34126)
 - 주차: 무료
+
+[찾아오시는 길](https://travel.dimag.kr/)
 
 ## 조직위원 
 - [김장수](https://jangsookim.github.io) (성균관대)
@@ -59,7 +65,5 @@ To be announced.
 - [IBS 이산수학그룹](https://dimag.ibs.re.kr/)
 
 <div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /></a> 
-<a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="Korean Mathematical Society" /></a>
-
-</div>
+<a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="Korean Mathematical Society" /><a href="https://dimag.ibs.re.kr/"><img src="/assets/NRF_logo_2.png" alt="National Research Foundation" /></a></a></div>
 
