@@ -1,2 +1,2 @@
-# cw2025
-2025 Combinatorics Workshop
+# 2025 Combinatorics Workshop
+https://cw2025.combinatorics.kr
