@@ -2,7 +2,7 @@
 title: 2025 Combinatorics Workshop
 layout: ko
 ---
-# 2025 조합론 학술대회 
+# 2025 조합론 학술대회
 <!-- [English](/en/) -->
 
 [조합론 학술대회](https://www.combinatorics.kr/workshop/combinatorics-workshop)는 국내 조합론 및 관련 분야 연구자들이 모이는 연례 학술 행사입니다. 2004년 연세대에서 처음 개최되었으며 2013년부터 대한수학회 이산수학분과의 행사로 열리고 있습니다. 제22회 행사인 2025 조합론 학술대회는 2025년 8월 18일부터 8월 20일까지 기초과학연구원 과학문화센터에서 개최될 예정입니다.
@@ -15,7 +15,7 @@ layout: ko
 - [권오정](http://ojkwon.com) (Hanyang University / IBS DIMAG)
 - [김동수](https://mathsci.kaist.ac.kr/~dskim/) (KAIST)
 - [김은정](https://www.lamsade.dauphine.fr/~kim/) (KAIST / CNRS / IBS DIMAG)
-- [이애자](https://science.psu.edu/math/people/auy2) (Penn State University)
+- [이애자](https://science.psu.edu/math/people/auy2) (Pennsylvania State University)
 - [Zhicong Lin](http://en.mis.sdu.edu.cn/info/1527/1399.htm) (Shandong University)
 
 
