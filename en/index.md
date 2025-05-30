@@ -26,18 +26,25 @@ Using English is recommended if there are non-Korean participants in the audienc
 
 If you are interested in giving a contributed talk at the workshop, please submit the abstract by June 20, 2025 at the following link. Each contributed talk will be 20-25 minutes long.
 
-Link to submit abstracts will be provided soon.
+Submit abstracts: https://indico.ibs.re.kr/event/930/abstracts/
+
 
 
 ## Registration
 
-The link to register will be provided soon.
+Registration: https://indico.ibs.re.kr/e/cw2015
 
 The registration deadline is July 10, 2025.
 
 ## Accommodation
 
 The list of designated hotels will be provided soon: Near-by hotels include Onoma Hotel, Lotte City Hotel, ICC Hotel, and I-Hotel.
+
+### Desginated Hotels
+1. [Onoma Hotel](https://www.marriott.com/en-us/hotels/cjjak-hotel-onoma-daejeon-autograph-collection/overview/)
+2. [Lotte City Hotel Daejeon](https://www.lottehotel.com/daejeon-city/en)
+3. [Hotel ICC](http://hotel.hotelicc.com/view/index.do?SS_SVC_LANG_CODE=ENG)
+4. [I-HOTEL](https://i-hotel.co.kr) (Please inquiry the organizer because there is an IBS contracted price)
 
 We provide dinners during the entire workshop.
 If you need support for accommodation, please let us know. 

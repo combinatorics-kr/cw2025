@@ -23,7 +23,8 @@ layout: ko
 
 워크샵에서 연구 결과를 발표하길 원하시는 분들께서는 아래 홈페이지를 통하여 6월 20일까지 발표 제목과 초록을 제출해주시기 바랍니다.
 
-초록 제출 링크: 추후 공개 예정
+초록 제출 링크: https://indico.ibs.re.kr/event/930/abstracts/
+
 
 일반 강연은 20-25분간 진행될 예정입니다. 
 
@@ -33,16 +34,21 @@ layout: ko
 
 ## 등록 
 
-등록 링크 추후 공개 예정. 
+등록 링크: https://indico.ibs.re.kr/e/cw2015
 
 등록 마감은 7월 10일입니다.
 
 ## 숙박 
 
-지정 호텔 추후 공개 예정. 인근 호텔: 오노마 호텔, ICC 호텔, I-HOTEL.
+### 학술대회 지정 호텔
+1. [오노마 호텔](https://www.marriott.com/ko/hotels/cjjak-hotel-onoma-daejeon-autograph-collection/overview/)
+2. [롯데시티호텔 대전](https://www.lottehotel.com/daejeon-city/ko)
+3. [호텔 ICC](http://hotel.hotelicc.com)
+4. [I-HOTEL](https://i-hotel.co.kr) (IBS 계약 가격이 있으니 문의 바랍니다)
 
 학회 기간동안 모든 참가자들에게 저녁식사가 제공될 예정입니다. 
 숙박 지원이 필요하신 경우 알려주시기 바랍니다.
+대한수학회 분과지원금을 활용하여 일부 학생들을 위한 숙박 지원 예정입니다. 등록하실때 신청 바랍니다.
 
 ## 학회 장소 
 
