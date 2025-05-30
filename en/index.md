@@ -38,7 +38,7 @@ The registration deadline is July 10, 2025.
 
 ## Accommodation
 
-### Desginated Hotels
+### Designated Hotels
 
 1. [Onoma Hotel](https://www.marriott.com/en-us/hotels/cjjak-hotel-onoma-daejeon-autograph-collection/overview/)
 2. [Lotte City Hotel Daejeon](https://www.lottehotel.com/daejeon-city/en)
