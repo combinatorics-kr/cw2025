@@ -32,7 +32,7 @@ If you are interested in giving a contributed talk at the workshop, please submi
 
 ## Registration
 
-[Registration: https://indico.ibs.re.kr/e/cw2015](https://indico.ibs.re.kr/e/cw2015)
+[Registration: https://indico.ibs.re.kr/e/cw2025](https://indico.ibs.re.kr/e/cw2025)
 
 The registration deadline is July 10, 2025.
 

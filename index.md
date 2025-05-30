@@ -34,7 +34,7 @@ layout: ko
 
 ## 등록 
 
-[등록 링크: https://indico.ibs.re.kr/e/cw2015](https://indico.ibs.re.kr/e/cw2015)
+[등록 링크: https://indico.ibs.re.kr/e/cw2025](https://indico.ibs.re.kr/e/cw2025)
 
 등록 마감은 7월 10일입니다.
 
