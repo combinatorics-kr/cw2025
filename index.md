@@ -23,7 +23,7 @@ layout: ko
 
 워크샵에서 연구 결과를 발표하길 원하시는 분들께서는 아래 홈페이지를 통하여 6월 20일까지 발표 제목과 초록을 제출해주시기 바랍니다.
 
-초록 제출 링크: https://indico.ibs.re.kr/event/930/abstracts/
+[초록 제출 링크: https://indico.ibs.re.kr/event/930/abstracts/](https://indico.ibs.re.kr/event/930/abstracts/)
 
 
 일반 강연은 20-25분간 진행될 예정입니다. 
@@ -34,7 +34,7 @@ layout: ko
 
 ## 등록 
 
-등록 링크: https://indico.ibs.re.kr/e/cw2015
+[등록 링크: https://indico.ibs.re.kr/e/cw2015](https://indico.ibs.re.kr/e/cw2015)
 
 등록 마감은 7월 10일입니다.
 
