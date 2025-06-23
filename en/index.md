@@ -24,7 +24,7 @@ Using English is recommended if there are non-Korean participants in the audienc
 
 ## Contributed Talks
 
-If you are interested in giving a contributed talk at the workshop, please submit the abstract by June 20, 2025 at the following link. Each contributed talk will be 20-25 minutes long.
+If you are interested in giving a contributed talk at the workshop, please submit the abstract by June 27 <del>June 20</del>, 2025 at the following link. Each contributed talk will be 20-25 minutes long.
 
 [Submit abstracts: https://indico.ibs.re.kr/event/930/abstracts/](https://indico.ibs.re.kr/event/930/abstracts/)
 

@@ -21,7 +21,7 @@ layout: ko
 
 ## 일반 강연 (Contributed Talks)
 
-워크샵에서 연구 결과를 발표하길 원하시는 분들께서는 아래 홈페이지를 통하여 6월 20일까지 발표 제목과 초록을 제출해주시기 바랍니다.
+워크샵에서 연구 결과를 발표하길 원하시는 분들께서는 아래 홈페이지를 통하여 <del>6월 20일까지</del> 6월 27일까지 발표 제목과 초록을 제출해주시기 바랍니다.
 
 [초록 제출 링크: https://indico.ibs.re.kr/event/930/abstracts/](https://indico.ibs.re.kr/event/930/abstracts/)
 
