@@ -28,6 +28,9 @@ If you are interested in giving a contributed talk at the workshop, please submi
 
 [Submit abstracts: https://indico.ibs.re.kr/event/930/abstracts/](https://indico.ibs.re.kr/event/930/abstracts/)
 
+## Program
+
+[Program Book](/assets/booklet.pdf)
 
 
 ## Registration
@@ -45,8 +48,8 @@ The registration deadline is July 10, 2025.
 3. [Hotel ICC](http://hotel.hotelicc.com/view/index.do?SS_SVC_LANG_CODE=ENG)
 4. [I-HOTEL](https://i-hotel.co.kr) (Please inquiry the organizer because there is an IBS contracted price)
 
-We provide dinners during the entire workshop.
-If you need support for accommodation, please let us know. 
+We provide dinners during the entire workshop and the lunch of the last day.
+<del>If you need support for accommodation, please let us know. </del>
 
 ## Venue
 
