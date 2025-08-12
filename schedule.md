@@ -6,7 +6,7 @@ layout: ko
 
 - Program Booklet (<a href="/assets/booklet.pdf" target="_blank">다운로드</a>)
 
-### 8월 18일 (월요일) 
+### 8월 18일 (Monday) 
 
 | Time     | Speaker | Content  | Notes | 
 |--------- |:-------:  |-------|----|  
@@ -23,7 +23,7 @@ layout: ko
 
 <br/>
 
-### 8월 19일 (화요일) 
+### 8월 19일 (Tuesday) 
 
 | Time     | Speaker | Content  | Notes | 
 |--------- |:-------:  |-------|----|  
@@ -48,7 +48,7 @@ layout: ko
 
 <br/>
 
-### 8월 20일 (수요일) 
+### 8월 20일 (Wednesday) 
 
 | Time     | Speaker | Content  | Notes | 
 |--------- |:-------:  |-------|----|  
