@@ -19,8 +19,7 @@ layout: ko
 | 16:00 - 16:30 | Dabeen Lee 이다빈   | Combinatorial optimization through the lens of boolean polynomials and binary matroids | <a href="#shin" class="lightLink">Abstract</a>   |
 | 16:30 - 17:00 | Seonghyuk Im 임성혁  | Random perturbation of dense graphs | <a href="#hyunwoolee" class="lightLink">Abstract</a> |
 | 17:00 - 17:30 | Hyunwoo Lee 이현우  | On a Ramsey–Turán variant of Roth’s theorem |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
-| 17:30 - 18:00 | Ingyu Baek 백인규  | On attainable homomorphism
-domination exponents |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
+| 17:30 - 18:00 | Ingyu Baek 백인규  | On attainable homomorphism domination exponents |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
 
 <br/>
 
