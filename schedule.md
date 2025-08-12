@@ -37,13 +37,13 @@ layout: ko
 | 11:30 - 13:30 |     |  Lunch    |   | 
 |  | 좌장   | 남하얀 (덕성여자대학교)   |  |
 | 13:30 - 14:30 | Ae Ja Yee 이애자 | Partition statistics and the Littlewood decomposition |  <a href="#AeJaYee" class="lightLink">Abstract</a>  |
-| 14:30 - 15:00 | Inseo Kim 김인서 |On toric Schubert varieties in flag varieties |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
-| 15:30 - 15:30 |Seonkyung Kim 김선경 | The largest size of an $(𝑠, 𝑠 + 2)$-core partition with even or odd parts only |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
+| 14:30 - 15:00 | Inseo Kim 김인서 |On toric Schubert varieties in flag varieties |  <a href="#InseoKim" class="lightLink">Abstract</a>  |
+| 15:30 - 15:30 | Seonkyung Kim 김선경 | The largest size of an $(𝑠, 𝑠 + 2)$-core partition with even or odd parts only |  <a href="#SeonkyungKim" class="lightLink">Abstract</a>  |
 | 15:30 - 16:00 |    | Coffee break  |   |
 |  | 좌장   | 김상욱 (전남대학교)  |  |
 | 16:00 - 17:00 | Zhicong Lin | Tree structures and combinatorics of bi-$\gamma$ positivity |  <a href="#ZhicongLin" class="lightLink">Abstract</a> |
-| 17:00 - 17:30 | Seunghun Lee 이승훈 | On the extension problem on the moment curve | <a href="#jeong" class="lightLink">Abstract</a> |
-| 17:30 - 18:00 | Seonghyeon Yu 유성현 | Bier spheres and their full subcomplexes |  <a href="#lim" class="lightLink">Abstract</a>  | 
+| 17:00 - 17:30 | Seunghun Lee 이승훈 | On the extension problem on the moment curve | <a href="#SeunghunLee" class="lightLink">Abstract</a> |
+| 17:30 - 18:00 | Seonghyeon Yu 유성현 | Bier spheres and their full subcomplexes |  <a href="#SeonghyeonYu" class="lightLink">Abstract</a>  | 
 | 18:00 -  |  | Conference banquet at IBS | <a href="#baek" class="lightLink">Abstract</a>   | 
 
 
@@ -57,9 +57,9 @@ layout: ko
 | 09:30 - 10:30 | O-joung Kwon 권오정 | On problems related to digraph width parameters |  <a href="#OjoungKwon" class="lightLink">Abstract</a> |
 | 10:30 - 11:00 |    | Coffee break  |    |
 |  | 좌장  | 박종육 (경북대학교)  |  |
-| 11:00 - 11:30 | Myounghwan Lee 이명환 | Unavoidable butterfly minors in digraphs of large cycle rank | <a href="#song" class="lightLink">Abstract</a>   | 
-| 11:30 - 12:00 | Seokbeom Kim 김석범 | Subtournaments of tournaments of large clique-width | <a href="#jangsookim" class="lightLink">Abstract</a>   | 
-| 12:00 - 12:30 | Seog-Jin Kim 김석진 | The square of every subcubic planar graph without $4$-cycles and $5$-cycles is $7$-choosable | <a href="#donggyukim" class="lightLink">Abstract</a>   | 
+| 11:00 - 11:30 | Myounghwan Lee 이명환 | Unavoidable butterfly minors in digraphs of large cycle rank | <a href="#MyounghwanLee" class="lightLink">Abstract</a>   | 
+| 11:30 - 12:00 | Seokbeom Kim 김석범 | Subtournaments of tournaments of large clique-width | <a href="#SeokbeomKim" class="lightLink">Abstract</a>   | 
+| 12:00 - 12:30 | Seog-Jin Kim 김석진 | The square of every subcubic planar graph without $4$-cycles and $5$-cycles is $7$-choosable | <a href="#SeogJinKim" class="lightLink">Abstract</a>   | 
 | 12:30 - 13:30 |    | Pizza lunch  |  | 
 
 
@@ -171,29 +171,59 @@ This is joint work with Suyoung Choi.
 **Title**: On the graph $𝑎$-numbers<br/>
 **Abstract**: The Vietoris-Rips complex, originally introduced by Leopold Vietoris in the early 1900s to develop a homology theory for metric spaces, has since found applications in various areas of mathematics. Eliyahu Rips and Mikhail Gromov further utilized it in their studies of hyperbolic groups. More recently, classifying the homotopy types of Vietoris-Rips complexes has become a significant problem in Topological Data Analysis and Global Metric Geometry. Understanding these complexes can enhance our grasp of the persistence barcode’s strength and provide lower bounds for the Gromov-Hausdorff distance between manifolds. In this talk, we will delve into these mo- tivations and introduce the precise connections between Vietoris-Rips complexes, hyperconvex metric spaces, and their homotopy types.
 
-<p><a name="baek"></a></p>
+<p><a name="InseoKim"></a></p>
 
-- 백지선 (연세대학교) <br/>
-**Title**: On the extremal number of face-incidence graphs<br/>
+- Inseo Kim (Chungbuk National University) <br/>
+**Title**: On toric Schubert varieties in flag varieties<br/>
 **Abstract**: The $(k, r)$-incidence graph of a regular polytope P is the bipartite incidence graph between $k$-faces and $r$-faces of $P$. We obtain a general upper bound and a corresponding supersaturation result for the extremal number of the $(k, r)$-incidence graph of any regular polytope.
 This generalises recent results of Janzer and Sudakov, who obtained the same bound for hypercubes and bipartite Kneser graphs, and confirms the conjecture of Conlon and Lee on the extremal number of $K_{d,d}$-free bipartite graphs for certain $(k, r)$-incidence graphs.<br/>
 Our proof, based on the reflection group method developed by Conlon and Lee, presents the method in a purely algebraic manner.
 As a consequence, this puts a number of results, including the Janzer-Sudakov theorem, the Conlon-Lee theorem on weakly norming graphs, and Coregliano’s theorem on Sidorenko’s conjecture, in the unified framework and simplifies all the proofs.<br/>
 Joint work with David Conlon and Joonkyung Lee.
 
-<p><a name="song"></a></p>
+<p><a name="SeonkyungKim"></a></p>
 
-- 송민호 (성균관대학교) <br/>
-**Title**: Combinatorics of orthogonal polynomials on the unit circle <br/>
+- Seonkyung Kim (Kangwon National University) <br/>
+**Title**: The largest size of an $(𝑠, 𝑠 + 2)$-core partition with even or odd parts only <br/>
 **Abstract**: Orthogonal polynomials on the unit circle (OPUC) are a family of polynomials orthogonal with respect to integration on the unit circle in the complex plane. The values of these integrals can be obtained by calculating moments. Numerous combinatorial studies have explored the moments of various types of orthogonal polynomials, including classical orthogonal polynomials, Laurent biorthogonal polynomials, and orthogonal polynomials of type $R_I$.<br/>
 In this talk, we first explain how OPUC relate to these other variations. Next, we study the moments of OPUC from a combinatorial perspective, providing three path interpretations: Łukasiewicz paths, gentle Motzkin paths, and Schröder paths. Using these combinatorial interpretations, we derive explicit formulas for the generalized moments of some examples of OPUC, including the circular Jacobi polynomials and the Rogers–Szegő polynomials. Furthermore, we introduce several types of generalized linearization coefficients and provide combinatorial interpretations for each of them.
 
-<p><a name="donggyukim"></a></p>
+<p><a name="SeunghunLee"></a></p>
 
-- 김동규 (KAIST) <br/>
-**Title**: Two ways to generalize matroids with coefficients<br/>
+- Seunghun Lee (IBS DIMAG) <br/>
+**Title**: On the extension problem on the moment curve<br/>
 **Abstract**: Dress (1986) introduced matroids with coefficients offering a unified approach to ordinary matroids, representations of matroids over fields, and oriented matroids. Baker and Bowler (2019) extended this theory, whose result includes a partial field representation by Semple and Whittle (1996).<br/>
 I will present two generalizations of matroids with coefficients. One is about skew-symmetric matrices and even delta-matroids, based on joint work with Tong Jin. We deduce several results on the representability of even delta-matroids as applications. The other concerns symmetric matrices and new matroid-like objects called antisymmetric matroids. It extends old results on the representability of matroids by Tutte (1958) and basis graphs of matroids by Maurer (1973). These two generalizations involve an interesting interplay between Lagrangian orthogonal/symplectic Grassmannians and combinatorics.<br/>
+
+<p><a name="SeonghyeonYu"></a></p>
+
+- Seonghyeon Yu (Ajou University) <br/>
+**Title**: Bier spheres and their full subcomplexes<br/>
+**Abstract**: Dress (1986) introduced matroids with coefficients offering a unified approach to ordinary matroids, representations of matroids over fields, and oriented matroids. Baker and Bowler (2019) extended this theory, whose result includes a partial field representation by Semple and Whittle (1996).<br/>
+I will present two generalizations of matroids with coefficients. One is about skew-symmetric matrices and even delta-matroids, based on joint work with Tong Jin. We deduce several results on the representability of even delta-matroids as applications. The other concerns symmetric matrices and new matroid-like objects called antisymmetric matroids. It extends old results on the representability of matroids by Tutte (1958) and basis graphs of matroids by Maurer (1973). These two generalizations involve an interesting interplay between Lagrangian orthogonal/symplectic Grassmannians and combinatorics.<br/>
+
+
+<p><a name="MyounghwanLee"></a></p>
+
+- Myounghwan Lee (Hanyang University) <br/>
+**Title**: Unavoidable butterfly minors in digraphs of large cycle rank<br/>
+**Abstract**: Dress (1986) introduced matroids with coefficients offering a unified approach to ordinary matroids, representations of matroids over fields, and oriented matroids. Baker and Bowler (2019) extended this theory, whose result includes a partial field representation by Semple and Whittle (1996).<br/>
+I will present two generalizations of matroids with coefficients. One is about skew-symmetric matrices and even delta-matroids, based on joint work with Tong Jin. We deduce several results on the representability of even delta-matroids as applications. The other concerns symmetric matrices and new matroid-like objects called antisymmetric matroids. It extends old results on the representability of matroids by Tutte (1958) and basis graphs of matroids by Maurer (1973). These two generalizations involve an interesting interplay between Lagrangian orthogonal/symplectic Grassmannians and combinatorics.<br/>
+
+<p><a name="SeokbeomKim"></a></p>
+
+- Seokbeom Kim (KAIST & IBS DIMAG) <br/>
+**Title**: Subtournaments of tournaments of large clique-width<br/>
+**Abstract**: Dress (1986) introduced matroids with coefficients offering a unified approach to ordinary matroids, representations of matroids over fields, and oriented matroids. Baker and Bowler (2019) extended this theory, whose result includes a partial field representation by Semple and Whittle (1996).<br/>
+I will present two generalizations of matroids with coefficients. One is about skew-symmetric matrices and even delta-matroids, based on joint work with Tong Jin. We deduce several results on the representability of even delta-matroids as applications. The other concerns symmetric matrices and new matroid-like objects called antisymmetric matroids. It extends old results on the representability of matroids by Tutte (1958) and basis graphs of matroids by Maurer (1973). These two generalizations involve an interesting interplay between Lagrangian orthogonal/symplectic Grassmannians and combinatorics.<br/>
+
+<p><a name="SeogJinKim"></a></p>
+
+- Seog-Jin Kim (Konkuk University) <br/>
+**Title**: The square of every subcubic planar graph without $4$-cycles and $5$-cycles is $7$-choosable<br/>
+**Abstract**: Dress (1986) introduced matroids with coefficients offering a unified approach to ordinary matroids, representations of matroids over fields, and oriented matroids. Baker and Bowler (2019) extended this theory, whose result includes a partial field representation by Semple and Whittle (1996).<br/>
+I will present two generalizations of matroids with coefficients. One is about skew-symmetric matrices and even delta-matroids, based on joint work with Tong Jin. We deduce several results on the representability of even delta-matroids as applications. The other concerns symmetric matrices and new matroid-like objects called antisymmetric matroids. It extends old results on the representability of matroids by Tutte (1958) and basis graphs of matroids by Maurer (1973). These two generalizations involve an interesting interplay between Lagrangian orthogonal/symplectic Grassmannians and combinatorics.<br/>
+
 
 
 
