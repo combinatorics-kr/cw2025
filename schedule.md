@@ -53,7 +53,7 @@ layout: ko
 | Time     | Speaker | Content  | Notes | 
 |--------- |:-------:  |-------|----|  
 |  | 좌장  | 권영수 (영남대학교) |  |
-| 9:30 - 10:30 | O-joung Kwon 권오정 | On problems related to digraph width parameters |  <a href="#donghyunkim" class="lightLink">Abstract</a> |
+| 09:30 - 10:30 | O-joung Kwon 권오정 | On problems related to digraph width parameters |  <a href="#donghyunkim" class="lightLink">Abstract</a> |
 | 10:30 - 11:00 |    | coffee break  |    |
 |  | 좌장  | 박종육 (경북대학교)  |  |
 | 11:00 - 11:30 | Myounghwan Lee 이명환 | Unavoidable butterfly minors in digraphs of large cycle rank | <a href="#song" class="lightLink">Abstract</a>   | 
