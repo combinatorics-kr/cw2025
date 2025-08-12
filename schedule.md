@@ -14,12 +14,13 @@ layout: ko
 |      | 좌장 | 엄상일 (IBS) |   |
 | 14:00 - 15:00 |  Eun Jung Kim 김은정 | Algorithm and MSO logic on graphs with tree-like structure | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
 | 15:00 - 15:30 |  Yongho Shin 신용호   | Learning-augmented online bipartite fractional matching | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
-| 15:30 - 16:00 |  | coffee break | | 
+| 15:30 - 16:00 |  | Coffee break | | 
 |     |  좌장 | 김효빈 (전남대학교)  | |
 | 16:00 - 16:30 | Dabeen Lee 이다빈   | Combinatorial optimization through the lens of boolean polynomials and binary matroids | <a href="#shin" class="lightLink">Abstract</a>   |
 | 16:30 - 17:00 | Seonghyuk Im 임성혁  | Random perturbation of dense graphs | <a href="#hyunwoolee" class="lightLink">Abstract</a> |
 | 17:00 - 17:30 | Hyunwoo Lee 이현우  | On a Ramsey–Turán variant of Roth’s theorem |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
 | 17:30 - 18:00 | Ingyu Baek 백인규  | On attainable homomorphism domination exponents |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
+| 18:00 -  |  | Dinner | <a href="#baek" class="lightLink">Abstract</a>   | 
 
 <br/>
 
@@ -29,21 +30,21 @@ layout: ko
 |--------- |:-------:  |-------|----|  
 |  |  좌장 |  서승현 (강원대학교)   |  |
 | 09:30 - 10:30 |  Dongsu Kim 김동수  | Combinatorics of orthogonal polynomials in the $𝑞$-Askey scheme |  <a href="#minkikim" class="lightLink">Abstract</a>  |
-| 10:30 - 11:00 |   |  coffee break  |   |
+| 10:30 - 11:00 |   |  Coffee break  |   |
 |  | 좌장  | 이준경 (연세대학교) |  |
-| 11:00 - 11:30 | Heesung Shin 신희성 | Combinatorial Bijections in Permutations, Trees, and Paths | <a href="#seo" class="lightLink">Abstract</a>  |
+| 11:00 - 11:30 | Heesung Shin 신희성 | Combinatorial bijections in permutations, trees, and paths | <a href="#seo" class="lightLink">Abstract</a>  |
 | 11:30 - 12:00 | Younghan Yoon 윤영한 | On the graph $𝑎$-numbers | <a href="#seo" class="lightLink">Abstract</a>  |
-| 11:30 - 13:30 |     |  lunch    |   | 
+| 11:30 - 13:30 |     |  Lunch    |   | 
 |  | 좌장   | 남하얀 (덕성여자대학교)   |  |
 | 13:30 - 14:30 | Ae Ja Yee 이애자 | Partition statistics and the Littlewood decomposition |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
 | 14:30 - 15:00 | Inseo Kim 김인서 |On toric Schubert varieties in flag varieties |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
 | 15:30 - 15:30 |Seonkyung Kim 김선경 | The largest size of an $(𝑠, 𝑠 + 2)$-core partition with even or odd parts only |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
-| 15:30 - 16:00 |    | coffee break  |   |
+| 15:30 - 16:00 |    | Coffee break  |   |
 |  | 좌장   | 김상욱 (전남대학교)  |  |
 | 16:00 - 17:00 | Zhicong Lin | Tree structures and combinatorics of bi-$\gamma$ positivity |  <a href="#yoon" class="lightLink">Abstract</a> |
 | 17:00 - 17:30 | Seunghun Lee 이승훈 | On the extension problem on the moment curve | <a href="#jeong" class="lightLink">Abstract</a> |
 | 17:30 - 18:00 | Seonghyeon Yu 유성현 | Bier spheres and their full subcomplexes |  <a href="#lim" class="lightLink">Abstract</a>  | 
-| 18:00 -  |  | Conference Banquet at IBS | <a href="#baek" class="lightLink">Abstract</a>   | 
+| 18:00 -  |  | Conference banquet at IBS | <a href="#baek" class="lightLink">Abstract</a>   | 
 
 
 <br/>
@@ -54,7 +55,7 @@ layout: ko
 |--------- |:-------:  |-------|----|  
 |  | 좌장  | 권영수 (영남대학교) |  |
 | 09:30 - 10:30 | O-joung Kwon 권오정 | On problems related to digraph width parameters |  <a href="#donghyunkim" class="lightLink">Abstract</a> |
-| 10:30 - 11:00 |    | coffee break  |    |
+| 10:30 - 11:00 |    | Coffee break  |    |
 |  | 좌장  | 박종육 (경북대학교)  |  |
 | 11:00 - 11:30 | Myounghwan Lee 이명환 | Unavoidable butterfly minors in digraphs of large cycle rank | <a href="#song" class="lightLink">Abstract</a>   | 
 | 11:30 - 12:00 | Seokbeom Kim 김석범 | Subtournaments of tournaments of large clique-width | <a href="#jangsookim" class="lightLink">Abstract</a>   | 
