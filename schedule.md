@@ -12,7 +12,7 @@ layout: ko
 |--------- |:-------:  |-------|----|  
 | 13:30 - 14:00 |  | Registration / Welcome remarks     |   | 
 |      | 좌장 | 엄상일 (IBS) |   |
-| 14:00 - 15:00 |  Eun Jung Kim 김은정 | Algorithm and MSO logic on graphs with tree-like structure | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
+| 14:00 - 15:00 |  Eun Jung Kim 김은정 | Algorithm and MSO logic on graphs with tree-like structure | <a href="#EunJungKim" class="lightLink">Abstract</a>  |
 | 15:00 - 15:30 |  Yongho Shin 신용호   | Learning-augmented online bipartite fractional matching | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
 | 15:30 - 16:00 |  | Coffee break | | 
 |     |  좌장 | 김효빈 (전남대학교)  | |
@@ -29,19 +29,19 @@ layout: ko
 | Time     | Speaker | Content  | Notes | 
 |--------- |:-------:  |-------|----|  
 |  |  좌장 |  서승현 (강원대학교)   |  |
-| 09:30 - 10:30 |  Dongsu Kim 김동수  | Combinatorics of orthogonal polynomials in the $𝑞$-Askey scheme |  <a href="#minkikim" class="lightLink">Abstract</a>  |
+| 09:30 - 10:30 |  Dongsu Kim 김동수  | Combinatorics of orthogonal polynomials in the $𝑞$-Askey scheme |  <a href="#DongsuKim" class="lightLink">Abstract</a>  |
 | 10:30 - 11:00 |   |  Coffee break  |   |
 |  | 좌장  | 이준경 (연세대학교) |  |
 | 11:00 - 11:30 | Heesung Shin 신희성 | Combinatorial bijections in permutations, trees, and paths | <a href="#seo" class="lightLink">Abstract</a>  |
 | 11:30 - 12:00 | Younghan Yoon 윤영한 | On the graph $𝑎$-numbers | <a href="#seo" class="lightLink">Abstract</a>  |
 | 11:30 - 13:30 |     |  Lunch    |   | 
 |  | 좌장   | 남하얀 (덕성여자대학교)   |  |
-| 13:30 - 14:30 | Ae Ja Yee 이애자 | Partition statistics and the Littlewood decomposition |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
+| 13:30 - 14:30 | Ae Ja Yee 이애자 | Partition statistics and the Littlewood decomposition |  <a href="#AeJaYee" class="lightLink">Abstract</a>  |
 | 14:30 - 15:00 | Inseo Kim 김인서 |On toric Schubert varieties in flag varieties |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
 | 15:30 - 15:30 |Seonkyung Kim 김선경 | The largest size of an $(𝑠, 𝑠 + 2)$-core partition with even or odd parts only |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
 | 15:30 - 16:00 |    | Coffee break  |   |
 |  | 좌장   | 김상욱 (전남대학교)  |  |
-| 16:00 - 17:00 | Zhicong Lin | Tree structures and combinatorics of bi-$\gamma$ positivity |  <a href="#yoon" class="lightLink">Abstract</a> |
+| 16:00 - 17:00 | Zhicong Lin | Tree structures and combinatorics of bi-$\gamma$ positivity |  <a href="#ZhicongLin" class="lightLink">Abstract</a> |
 | 17:00 - 17:30 | Seunghun Lee 이승훈 | On the extension problem on the moment curve | <a href="#jeong" class="lightLink">Abstract</a> |
 | 17:30 - 18:00 | Seonghyeon Yu 유성현 | Bier spheres and their full subcomplexes |  <a href="#lim" class="lightLink">Abstract</a>  | 
 | 18:00 -  |  | Conference banquet at IBS | <a href="#baek" class="lightLink">Abstract</a>   | 
@@ -54,7 +54,7 @@ layout: ko
 | Time     | Speaker | Content  | Notes | 
 |--------- |:-------:  |-------|----|  
 |  | 좌장  | 권영수 (영남대학교) |  |
-| 09:30 - 10:30 | O-joung Kwon 권오정 | On problems related to digraph width parameters |  <a href="#donghyunkim" class="lightLink">Abstract</a> |
+| 09:30 - 10:30 | O-joung Kwon 권오정 | On problems related to digraph width parameters |  <a href="#OjoungKwon" class="lightLink">Abstract</a> |
 | 10:30 - 11:00 |    | Coffee break  |    |
 |  | 좌장  | 박종육 (경북대학교)  |  |
 | 11:00 - 11:30 | Myounghwan Lee 이명환 | Unavoidable butterfly minors in digraphs of large cycle rank | <a href="#song" class="lightLink">Abstract</a>   | 
@@ -66,7 +66,7 @@ layout: ko
 <br/>
 
 ## 초청연사 (invited speakers)
-<p><a name="jeonghankim"></a></p>
+<p><a name="EunJungKim"></a></p>
 
 - 김정한 (고등과학원)<br/>
 **Title**:  Asymptotic bounds of Ramsey Numbers<br/>
@@ -74,13 +74,13 @@ layout: ko
 on $n$ vertices either contains a clique of size $s$ or an independent set of size $t$. Recent developments in Ramsey theory have focused on finding asymptotic bounds for Ramsey numbers.<br/>
 In this talk, we survey asymptotic bounds of Ramsey Numbers $R(3,t)$ and $R(4,t)$, including significant contributions of Sam Mattheus and Jacques Verstraete on $R(4,t)$.
 
-<p><a name="minkikim"></a></p>
+<p><a name="DongsuKim"></a></p>
 
 - 김민기 (광주과학기술원)<br/>
 **Title**: Extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes<br/>
 **Abstract**: We present extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes, providing a common generalization to the topological colorful Helly theorem by Kalai and Meshulam, the very colorful Helly theorem by Arocha et al., and the semi-intersecting colorful Helly theorem by Karasev and Montejano. As an application, we obtain a strengthened version of Tverberg's theorem. This is joint work with Alan Lew.
 
-<p><a name="suyoungchoi"></a></p>
+<p><a name="AeJaYee"></a></p>
 
 - 최수영 (아주대학교) <br/>
 **Title**: Toric Colorability of Graphs of Simplicial $d$-Polytopes with $𝑑+4$ vertices<br/>
@@ -88,7 +88,7 @@ In this talk, we survey asymptotic bounds of Ramsey Numbers $R(3,t)$ and $R(4,t)
 A graph of a simplicial $d$-polytope is said to be $\textit{toric colorable}$ if there is a vertex coloring $\lambda \colon V(G) \to \mathbb{Z}^d$ such that $\{v_1, \ldots, v_d\}$ forms a face of $P$ implies that $\{\lambda(v_1), \ldots, \lambda(v_d)\}$ is unimodular.<br/>
 In this talk, we discuss the toric colorability of graphs of simplicial $d$-polytopes with $d+4$ vertices.
 
-<p><a name="donghyunkim"></a></p>
+<p><a name="ZhicongLin"></a></p>
 
 - 김동현 (서울대학교) <br/>
 **Title**: Lusztig $q$ weight multiplicities via affine crystals<br/>
@@ -96,7 +96,7 @@ In this talk, we discuss the toric colorability of graphs of simplicial $d$-poly
 In $2019$, Lee proposed a combinatorial formula for type C using a novel combinatorial concept known as semistandard oscillating tableaux. We will outline the proof of Lee's conjecture and discuss how it can be extended to type B spin weights case.<br/>
 Based on joint work with Hyeonjae Choi and Seung Jin Lee.
 
-<p><a name="jangsookim"></a></p>
+<p><a name="OjoungKwon"></a></p>
 
 - 김장수 (성균관대학교) <br/>
 **Title**: Enumeration of multiplex juggling card sequences using generalized $q$-derivatives<br/>
