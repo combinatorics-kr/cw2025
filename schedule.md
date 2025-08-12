@@ -13,13 +13,13 @@ layout: ko
 | 13:30 - 14:00 |  | Registration / Welcome remarks     |   | 
 |      | 좌장 | 엄상일 (IBS) |   |
 | 14:00 - 15:00 |  Eun Jung Kim 김은정 | Algorithm and MSO logic on graphs with tree-like structure | <a href="#EunJungKim" class="lightLink">Abstract</a>  |
-| 15:00 - 15:30 |  Yongho Shin 신용호   | Learning-augmented online bipartite fractional matching | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
+| 15:00 - 15:30 |  Yongho Shin 신용호   | Learning-augmented online bipartite fractional matching | <a href="#YonghoShin" class="lightLink">Abstract</a>  |
 | 15:30 - 16:00 |  | Coffee break | | 
 |     |  좌장 | 김효빈 (전남대학교)  | |
-| 16:00 - 16:30 | Dabeen Lee 이다빈   | Combinatorial optimization through the lens of boolean polynomials and binary matroids | <a href="#shin" class="lightLink">Abstract</a>   |
-| 16:30 - 17:00 | Seonghyuk Im 임성혁  | Random perturbation of dense graphs | <a href="#hyunwoolee" class="lightLink">Abstract</a> |
-| 17:00 - 17:30 | Hyunwoo Lee 이현우  | On a Ramsey–Turán variant of Roth’s theorem |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
-| 17:30 - 18:00 | Ingyu Baek 백인규  | On attainable homomorphism domination exponents |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
+| 16:00 - 16:30 | Dabeen Lee 이다빈   | Combinatorial optimization through the lens of boolean polynomials and binary matroids | <a href="#DabeenLee" class="lightLink">Abstract</a>   |
+| 16:30 - 17:00 | Seonghyuk Im 임성혁  | Random perturbation of dense graphs | <a href="#SeonghyukIm" class="lightLink">Abstract</a> |
+| 17:00 - 17:30 | Hyunwoo Lee 이현우  | On a Ramsey–Turán variant of Roth’s theorem |  <a href="#HyunwooLee" class="lightLink">Abstract</a> | 
+| 17:30 - 18:00 | Ingyu Baek 백인규  | On attainable homomorphism domination exponents |  <a href="#IngyuBaek" class="lightLink">Abstract</a> | 
 | 18:00 -  |  | Dinner | <a href="#baek" class="lightLink">Abstract</a>   | 
 
 <br/>
@@ -108,27 +108,27 @@ Based on joint work with Hyeonjae Choi and Seung Jin Lee.
 
 ## 일반강연 (Constributed Talks) 
 
-<p><a name="shin"></a></p>
+<p><a name="YonghoShin"></a></p>
 
-- 신희성 (인하대학교) <br/>
-**Title**: 102-avoiding Inversion Sequences<br/>
+- Yongho Shin (University of Wrocław) <br/>
+**Title**: Learning-augmented online bipartite fractional matching<br/>
 **Abstract**: A sequence $(e_1,e_2,\cdots ,e_n)$ is an inversion sequences if $0 \le e_i < i$ for all $i = 1,...,n$. We say that an inversion sequences $e = (e_1, e_2, \cdots , e_n)$ $\textit{contains}$ the pattern 102 if there exist some indices $i < j < k$ such that $e_j < e_i < e_k$. Otherwise, $e$ is said to $\textit{avoid}$ the pattern 102.
 In this talk, we will construct a correspondence between the set of 2-Schröder paths without peaks and valleys ending with a diagonal step and the set of 102-avoiding inversion sequences. This is the joint work with JiSun Huh, Sangwook Kim, and Seunghyun Seo.
 
-<p><a name="hyunwoolee"></a></p>
+<p><a name="DabeenLee"></a></p>
 
-- 이현우 (KAIST) <br/>
-**Title**:Random matchings in linear hypergraphs <br/>
+- Dabeen Lee (KAIST) <br/>
+**Title**: Combinatorial optimization through the lens of boolean polynomials and binary matroids <br/>
 **Abstract**: For a given hypergraph $H$ and a vertex $v \in V (H)$, consider a random matching $M$ chosen uniformly from the set of all matchings in $H$. In 1995, Kahn conjectured that if $H$ is a $d$-regular linear $k$-uniform hypergraph, the probability that $M$ does not cover $v$ is  $(1+o_d(1))d^{−1/k}$ for all vertices $v \in V (H)$. This conjecture was proved for $k = 2$ by Kahn and Kim in 1998.<br/>
 We disprove this conjecture for all $k \ge 3$. For infinitely many values of $d$, we construct $d$-regular
 linear $k$-uniform hypergraph $H$ containing two vertices $v_1$ and $v_2$ such that $P(v_1 \not\in  M) =
 1 − \frac{(1+o_d(1))}{d^{k-2}}$ and $P(v\not\in M) = \frac{(1+o_d(1))}{d+1}$. The gap between $\mathcal{P}(v\not\in M)$ and $\mathcal{P}(v \not\in M)$ 
 in this $H$ is best possible. In the course of proving this, we also prove a hypergraph analog of Godsil’s result on matching polynomials and paths in graphs, which is of independent interest.
 
-<p><a name="jaeholee"></a></p>
+<p><a name="SeonghyukIm"></a></p>
 
-- 이재호 (University of North Florida & POSTECH)<br/>
-**Title**: Towards a classification of 1-homogeneous graphs with positive intersection number $a_1$ <br/>
+- Seonghyuk Im (KAIT & IBS ECOPRO)<br/>
+**Title**: Random perturbation of dense graphs <br/>
 **Abstract**: Let $\Gamma$ be a graph with diameter at least two. Then Γ is said to be 1-homogeneous (in the sense of Nomura) whenever for every pair of adjacent vertices $x$ and $y$ in $\Gamma$, the distance partition of the vertex set of $\Gamma$ with respect to both $x$ and $y$ is equitable, and the parameters corresponding to equitable partitions are independent of the choice of $x$ and $y$. Assume $\Gamma$ is 1-homogeneous distance-regular with intersection number $a_1 > 0$ and diameter $D \geqslant 5$. Define $b = b_1/(\theta_1 + 1)$, where $b_1$ is the intersection number and $\theta_1$ is the second largest eigenvalue of $\Gamma$. In this talk, we show that if intersection number $c_2 \geqslant 2$, then $b \geqslant 1$ and one of the following (i)–(vi) holds:<br/>
   (i) $\Gamma$ is a regular near $2D$-gon,<br/>
   (ii) $\Gamma$ is a Johnson graph $J(2D, D)$,<br/>
@@ -139,20 +139,20 @@ in this $H$ is best possible. In the course of proving this, we also prove a hyp
   Moreover, we characterize 1-homogeneous graphs with classical parameters and $a_1 > 0$, as well as tight distance-regular graphs.<br/>
    This is a joint work with J. Koolen, M. Abdullah, B. Gebremichel.
 
-<p><a name="seo"></a></p>
+<p><a name="HyunwooLee"></a></p>
 
-- 서재현 (연세대학교)<br/>
-**Title**: Transversal Hamilton paths and cycles of arbitrary orientations in tournament <br/>
+- Hyunwoo Lee (KAIST & IBS ECOPRO)<br/>
+**Title**: On a Ramsey–Turán variant of Roth’s theorem <br/>
 **Abstract**: It is well-known that a tournament always contains a directed Hamilton path. Rosenfeld conjectured that if a tournament is sufficiently large,
   it contains a Hamilton path of any given orientation. This conjecture was approved by Thomason, and Havet and Thomassé completely resolved it by showing there are exactly three exceptions.<br/>
 We generalized this result into a transversal setting. Let $T = \{T_1, . . . , T_{n−1}\}$ be a collection of tournaments on a common vertex set $V$ of size $n$. We showed that if $n$ is sufficiently large, there is a Hamilton path on $V$ of any given orientation which is obtained by collecting exactly one arc from each $T_i$. Such a path is said to be transversal.<br/>
 It is also a folklore that a strongly connected tournament always contains a directed Hamilton cycle. Rosenfeld made a conjecture for arbitrarily oriented Hamilton cycles in tournaments as well, which was approved by Thomason (for sufficiently large tournaments) and Zein (by specifying all the exceptions). We also showed a transversal version of this result. Together with the aforementioned result, it extends our previous research, which is on transversal generalizations of existence of directed paths and cycles in tournaments.<br/>
 This is a joint work with Debsoumya Chakraborti, Jaehoon Kim, and Hyunwoo Lee.
 
-<p><a name="yoon"></a></p>
+<p><a name="IngyuBaek"></a></p>
 
-- 윤영한 (아주대학교) <br/>
-**Title**: Alternating $\mathcal{B}$-permutations arising from toric topology <br/>
+- Ingyu Baek (아주대학교) <br/>
+**Title**: On attainable homomorphism domination exponents <br/>
 **Abstract**: In this talk, we focus on the rational Betti numbers of real toric manifolds associated with chordal nestohedra.
 We introduce an explicit description for the Betti numbers using alternating $\mathcal{B}$-permutations for a chordal building set $\mathcal{B}$.
 We provide detailed computations for interesting cases of chordal nestohedra, including permutohedra, associahedra, stellohedra, Stanley-Pitman polytopes, and Hochschild polytopes. 
