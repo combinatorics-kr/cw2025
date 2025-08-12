@@ -10,7 +10,7 @@ layout: ko
 
 | Time     | Speaker | Content  | Notes | 
 |-------- |:------:  |-------|----|  
-| 13:30 - 13:50|  | Opening/Registration     |   | 
+| 13:30 - 14:00|  | Registration / Welcome remarks     |   | 
 |      | 좌장 | Sang-il Oum 엄상일 (IBS) |   |
 | 14:00 - 15:00 |  Eun Jung Kim 김은정 | Algorithm and MSO logic on graphs with tree-like structure | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
 | 15:00 - 15:30 |  Yongho Shin 신용호   | Learning-augmented online bipartite fractional matching | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
@@ -27,22 +27,23 @@ layout: ko
 
 | Time     | Speaker | Content  | Notes | 
 |-------- |:------:  |-------|----|  
-|  |  좌장 |  김석진 (건국대학교)   |  |
-| 9:30 - 10:30 |  김민기  | Extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes |  <a href="#minkikim" class="lightLink">Abstract</a>  |
+|  |  좌장 |  Seunghyun Seo 서승현 (강원대학교)   |  |
+| 9:30 - 10:30 |  Dongsu Kim 김동수  | Combinatorics of orthogonal polynomials in the $𝑞$-Askey scheme |  <a href="#minkikim" class="lightLink">Abstract</a>  |
 | 10:30 - 11:00 |   |  coffee break  |   |
-|  | 좌장  | 이준경 (연세대학교) |  |
-| 11:00 - 11:30 | 서재현 | Transversal Hamilton paths and cycles of arbitrary orientations in tournaments | <a href="#seo" class="lightLink">Abstract</a>  |
+|  | 좌장  | Junekyung Lee 이준경 (연세대학교) |  |
+| 11:00 - 11:30 | Heesung Shin 신희성 | Combinatorial Bijections in Permutations, Trees, and Paths | <a href="#seo" class="lightLink">Abstract</a>  |
+| 11:30 - 12:00 | Younghan Yoon 윤영한 | On the graph $𝑎$-numbers | <a href="#seo" class="lightLink">Abstract</a>  |
 | 11:30 - 13:30 |     |  lunch    |   | 
-|  | 좌장   |  이은정 (충북대학교)   |  |
-| 13:30 - 14:30 | 최수영 | Toric Colorability of Graphs of Simplicial $d$-Polytopes with $𝑑+4$ vertices |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
-| 14:30 - 15:00 |    | coffee break  |   |
-|  | 좌장   |  김진하 (전남대학교)  |  |
-| 15:00 - 15:30 | 윤영한 |  Alternating $\mathcal{B}$-permutations arising from toric topology |  <a href="#yoon" class="lightLink">Abstract</a> |
-| 15:30 - 16:00 | 정준호 | Partitions of ordered partitions and Bott manifolds | <a href="#jeong" class="lightLink">Abstract</a> |
-| 16:00 - 16:30 |    | coffee break  |     |
-|  |  좌장   | 김상욱 (전남대학교) |  |
-| 16:30 - 17:00 | 임선혁 | Homotopy types of Vietoris-Rips complexes and their connection to hyperconvexity |  <a href="#lim" class="lightLink">Abstract</a>  | 
-| 17:00 - 17:30 | 백지선 | On the extremal number of face-incidence graphs | <a href="#baek" class="lightLink">Abstract</a>   | 
+|  | 좌장   | Hayan Nam 남하얀 (덕성여자대학교)   |  |
+| 13:30 - 14:30 | Ae Ja Yee 이애자 | Partition statistics and the Littlewood decomposition |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
+| 14:30 - 15:00 | Inseo Kim 김인서 |On toric Schubert varieties in flag varieties |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
+| 15:30 - 15:30 |Seonkyung Kim 김선경 | The largest size of an $(𝑠, 𝑠 + 2)$-core partition with even or odd parts only |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
+| 15:30 - 16:00 |    | coffee break  |   |
+|  | 좌장   |  Sangwook Kim 김상욱 (전남대학교)  |  |
+| 16:00 - 17:00 | Zhicong Lin | Tree structures and combinatorics of bi-$\gamma$ positivity |  <a href="#yoon" class="lightLink">Abstract</a> |
+| 17:00 - 17:30 | Seunghun Lee 이승훈 | On the extension problem on the moment curve | <a href="#jeong" class="lightLink">Abstract</a> |
+| 17:30 - 18:00 | Seonghyeon Yu 유성현 | Bier spheres and their full subcomplexes |  <a href="#lim" class="lightLink">Abstract</a>  | 
+| 18:00 -  |  | Conference Banquet at IBS | <a href="#baek" class="lightLink">Abstract</a>   | 
 
 
 <br/>
