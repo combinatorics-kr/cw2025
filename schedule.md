@@ -41,7 +41,7 @@ layout: ko
 | 15:30 - 15:30 |Seonkyung Kim 김선경 | The largest size of an $(𝑠, 𝑠 + 2)$-core partition with even or odd parts only |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
 | 15:30 - 16:00 |    | Coffee break  |   |
 |  | 좌장   | 김상욱 (전남대학교)  |  |
-| 16:00 - 17:00 | Zhicong Lin | Tree structures and combinatorics of bi-$\gamma$ positivity |  <a href="#yoon" class="lightLink">Abstract</a> |
+| 16:00 - 17:00 | Zhicong Lin | Tree structures and combinatorics of bi-$gamma$ positivity |  <a href="#yoon" class="lightLink">Abstract</a> |
 | 17:00 - 17:30 | Seunghun Lee 이승훈 | On the extension problem on the moment curve | <a href="#jeong" class="lightLink">Abstract</a> |
 | 17:30 - 18:00 | Seonghyeon Yu 유성현 | Bier spheres and their full subcomplexes |  <a href="#lim" class="lightLink">Abstract</a>  | 
 | 18:00 -  |  | Conference banquet at IBS | <a href="#baek" class="lightLink">Abstract</a>   | 
