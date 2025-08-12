@@ -69,7 +69,7 @@ layout: ko
 <p><a name="EunJungKim"></a></p>
 
 - Eun Jung Kim (KAIST & IBS DIMAG & CNRS)<br/>
-**Title**:  Asymptotic bounds of Ramsey Numbers<br/>
+**Title**: Algorithm and MSO logic on graphs with tree-like structure<br/>
 **Abstract**: Ramsey numbers, denoted as  $R(s,t)$, are fundamental in graph theory, representing the smallest number of vertices $n$ such that every graph 
 on $n$ vertices either contains a clique of size $s$ or an independent set of size $t$. Recent developments in Ramsey theory have focused on finding asymptotic bounds for Ramsey numbers.<br/>
 In this talk, we survey asymptotic bounds of Ramsey Numbers $R(3,t)$ and $R(4,t)$, including significant contributions of Sam Mattheus and Jacques Verstraete on $R(4,t)$.
@@ -77,13 +77,13 @@ In this talk, we survey asymptotic bounds of Ramsey Numbers $R(3,t)$ and $R(4,t)
 <p><a name="DongsuKim"></a></p>
 
 - Dongsu Kim (KAIST)<br/>
-**Title**: Extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes<br/>
+**Title**: Combinatorics of orthogonal polynomials in the $𝑞$-Askey scheme <br/>
 **Abstract**: We present extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes, providing a common generalization to the topological colorful Helly theorem by Kalai and Meshulam, the very colorful Helly theorem by Arocha et al., and the semi-intersecting colorful Helly theorem by Karasev and Montejano. As an application, we obtain a strengthened version of Tverberg's theorem. This is joint work with Alan Lew.
 
 <p><a name="AeJaYee"></a></p>
 
 - Ae Ja Yee (Pennsylvania State University) <br/>
-**Title**: Toric Colorability of Graphs of Simplicial $d$-Polytopes with $𝑑+4$ vertices<br/>
+**Title**: Partition statistics and the Littlewood decomposition<br/>
 **Abstract**: The 1-skeleton of a convex polytope $P$ is called the graph of $P$.
 A graph of a simplicial $d$-polytope is said to be $\textit{toric colorable}$ if there is a vertex coloring $\lambda \colon V(G) \to \mathbb{Z}^d$ such that $\{v_1, \ldots, v_d\}$ forms a face of $P$ implies that $\{\lambda(v_1), \ldots, \lambda(v_d)\}$ is unimodular.<br/>
 In this talk, we discuss the toric colorability of graphs of simplicial $d$-polytopes with $d+4$ vertices.
@@ -91,7 +91,7 @@ In this talk, we discuss the toric colorability of graphs of simplicial $d$-poly
 <p><a name="ZhicongLin"></a></p>
 
 - Zhicong Lin (Shandong University) <br/>
-**Title**: Lusztig $q$ weight multiplicities via affine crystals<br/>
+**Title**: Tree structures and combinatorics of bi-$\gamma$ positivity<br/>
 **Abstract**: Lusztig $q$ weight multiplicity is a polynomial in $q$ whose positivity has been verified by linking it to a specific affine Kazhdan-Lusztig polynomial. However, a combinatorial formula beyond type A has not been known until recently.<br/>
 In $2019$, Lee proposed a combinatorial formula for type C using a novel combinatorial concept known as semistandard oscillating tableaux. We will outline the proof of Lee's conjecture and discuss how it can be extended to type B spin weights case.<br/>
 Based on joint work with Hyeonjae Choi and Seung Jin Lee.
@@ -99,7 +99,7 @@ Based on joint work with Hyeonjae Choi and Seung Jin Lee.
 <p><a name="OjoungKwon"></a></p>
 
 - O-joung Kwon (Hanyang University & IBS DIMAG) <br/>
-**Title**: Enumeration of multiplex juggling card sequences using generalized $q$-derivatives<br/>
+**Title**: On problems related to digraph width parameters<br/>
 **Abstract**: In $2019$, Butler, Choi, Kim, and Seo introduced a new type of juggling card that represents multiplex juggling patterns in a
   natural bijective way. They conjectured a formula for the generating function for the number of multiplex juggling cards with capacity.
   In this paper we prove their conjecture. More generally, we find an explicit formula for the generating function with any capacity. We
