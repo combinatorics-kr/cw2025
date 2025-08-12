@@ -32,8 +32,8 @@ layout: ko
 | 09:30 - 10:30 |  Dongsu Kim 김동수  | Combinatorics of orthogonal polynomials in the $𝑞$-Askey scheme |  <a href="#DongsuKim" class="lightLink">Abstract</a>  |
 | 10:30 - 11:00 |   |  Coffee break  |   |
 |  | 좌장  | 이준경 (연세대학교) |  |
-| 11:00 - 11:30 | Heesung Shin 신희성 | Combinatorial bijections in permutations, trees, and paths | <a href="#seo" class="lightLink">Abstract</a>  |
-| 11:30 - 12:00 | Younghan Yoon 윤영한 | On the graph $𝑎$-numbers | <a href="#seo" class="lightLink">Abstract</a>  |
+| 11:00 - 11:30 | Heesung Shin 신희성 | Combinatorial bijections in permutations, trees, and paths | <a href="#HeesungShin" class="lightLink">Abstract</a>  |
+| 11:30 - 12:00 | Younghan Yoon 윤영한 | On the graph $𝑎$-numbers | <a href="#YounghanYoon" class="lightLink">Abstract</a>  |
 | 11:30 - 13:30 |     |  Lunch    |   | 
 |  | 좌장   | 남하얀 (덕성여자대학교)   |  |
 | 13:30 - 14:30 | Ae Ja Yee 이애자 | Partition statistics and the Littlewood decomposition |  <a href="#AeJaYee" class="lightLink">Abstract</a>  |
@@ -151,7 +151,7 @@ This is a joint work with Debsoumya Chakraborti, Jaehoon Kim, and Hyunwoo Lee.
 
 <p><a name="IngyuBaek"></a></p>
 
-- Ingyu Baek (아주대학교) <br/>
+- Ingyu Baek (Yonsei University) <br/>
 **Title**: On attainable homomorphism domination exponents <br/>
 **Abstract**: In this talk, we focus on the rational Betti numbers of real toric manifolds associated with chordal nestohedra.
 We introduce an explicit description for the Betti numbers using alternating $\mathcal{B}$-permutations for a chordal building set $\mathcal{B}$.
@@ -159,16 +159,16 @@ We provide detailed computations for interesting cases of chordal nestohedra, in
 This is joint work with Suyoung Choi.
 
 
-<p><a name="jeong"></a></p>
+<p><a name="HeesungShin"></a></p>
 
-- 정준호 (충북대학교) <br/>
-**Title**: Partitions of ordered partitions and Bott manifolds<br/>
+- Heesung Shin (Inha University) <br/>
+**Title**: Combinatorial bijections in permutations, trees, and paths <br/>
 **Abstract**: Bott manifolds are smooth projective toric varieties providing interesting avenues among topology, geometry, representation theory, and combinatorics. They are used to understand the geometric structure of Bott-Samelson-Demazure-Hansen (BSDH) varieties, which provide desingularizations of Schubert varieties. However, not all Bott manifolds originate from BSDH varieties. Those that do are specifically referred to as Bott manifolds of Bott-Samelson-Demazure-Hansen type. In this talk, we explore a relationship between Bott manifolds of BSDH type and partitions of ordered partitions. This talk is based on joint work with Jang Soo Kim and Eunjeong Lee.
 
-<p><a name="lim"></a></p>
+<p><a name="YounghanYoon"></a></p>
 
-- 임선혁 (성균관대학교) <br/>
-**Title**: Homotopy types of Vietoris-Rips complexes and their connection to hyperconvexity<br/>
+- Younghan Yoon (Ajou University) <br/>
+**Title**: On the graph $𝑎$-numbers<br/>
 **Abstract**: The Vietoris-Rips complex, originally introduced by Leopold Vietoris in the early 1900s to develop a homology theory for metric spaces, has since found applications in various areas of mathematics. Eliyahu Rips and Mikhail Gromov further utilized it in their studies of hyperbolic groups. More recently, classifying the homotopy types of Vietoris-Rips complexes has become a significant problem in Topological Data Analysis and Global Metric Geometry. Understanding these complexes can enhance our grasp of the persistence barcode’s strength and provide lower bounds for the Gromov-Hausdorff distance between manifolds. In this talk, we will delve into these mo- tivations and introduce the precise connections between Vietoris-Rips complexes, hyperconvex metric spaces, and their homotopy types.
 
 <p><a name="baek"></a></p>
