@@ -15,11 +15,11 @@ layout: ko
 | 14:00 - 15:00 |  Eun Jung Kim 김은정 | Algorithm and MSO logic on graphs with tree-like structure | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
 | 15:00 - 15:30 |  Yongho Shin 신용호   | Learning-augmented online bipartite fractional matching | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
 | 15:30 - 16:00 |  | coffee break | | 
-|     |  좌장 | 김효빈 (전남대학교)  | |
+|     |  좌장 | Hyo been Kim 김효빈 (전남대학교)  | |
 | 16:00 - 16:30 | Dabeen Lee 이다빈   | Combinatorial optimization through the lens of boolean polynomials and binary matroids | <a href="#shin" class="lightLink">Abstract</a>   |
 | 16:30 - 17:00 | Seonghyuk Im 임성혁  | Random perturbation of dense graphs | <a href="#hyunwoolee" class="lightLink">Abstract</a> |
 | 17:00 - 17:30 | Hyunwoo Lee 이현우  | On a Ramsey–Turán variant of Roth’s theorem |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
-| 17:00 - 17:30 | Ingyu Baek 백인규  | On attainable homomorphism
+| 17:30 - 18:00 | Ingyu Baek 백인규  | On attainable homomorphism
 domination exponents |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
 
 <br/>
