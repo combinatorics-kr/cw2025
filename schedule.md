@@ -9,7 +9,7 @@ layout: ko
 ### 8월 18일 (월요일) 
 
 | Time     | Speaker | Content  | Notes | 
-|-------- |:------:  |-------|----|  
+|--------- |:-------:  |-------|----|  
 | 13:30 - 14:00 |  | Registration / Welcome remarks     |   | 
 |      | 좌장 | 엄상일 (IBS) |   |
 | 14:00 - 15:00 |  Eun Jung Kim 김은정 | Algorithm and MSO logic on graphs with tree-like structure | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
@@ -26,7 +26,7 @@ layout: ko
 ### 8월 19일 (화요일) 
 
 | Time     | Speaker | Content  | Notes | 
-|-------- |:------:  |-------|----|  
+|--------- |:-------:  |-------|----|  
 |  |  좌장 |  서승현 (강원대학교)   |  |
 | 09:30 - 10:30 |  Dongsu Kim 김동수  | Combinatorics of orthogonal polynomials in the $𝑞$-Askey scheme |  <a href="#minkikim" class="lightLink">Abstract</a>  |
 | 10:30 - 11:00 |   |  coffee break  |   |
@@ -51,7 +51,7 @@ layout: ko
 ### 8월 20일 (수요일) 
 
 | Time     | Speaker | Content  | Notes | 
-|-------- |:------:  |-------|----|  
+|--------- |:-------:  |-------|----|  
 |  | 좌장  | 권영수 (영남대학교) |  |
 | 9:30 - 10:30 | O-joung Kwon 권오정 | On problems related to digraph width parameters |  <a href="#donghyunkim" class="lightLink">Abstract</a> |
 | 10:30 - 11:00 |    | coffee break  |    |
