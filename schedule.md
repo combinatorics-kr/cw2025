@@ -4,24 +4,27 @@ layout: ko
 
 # Schedule 
 
-- Program Booklet (<a href="/assets/2024_Combinatorics_Workshop.pdf" target="_blank">다운로드</a>)
+- Program Booklet (<a href="/assets/booklet.pdf" target="_blank">다운로드</a>)
 
-### 8월 28일 (수요일) 
+### 8월 18일 (월요일) 
 
 | Time     | Speaker | Content  | Notes | 
 |-------- |:------:  |-------|----|  
-| 14:00 - 14:30|  | Opening/Registration     |   | 
-|      | 좌장 | 엄상일 (IBS) |   |
-| 14:30 - 15:30 |  김정한   | Asymptotic bounds of Ramsey Numbers | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
+| 13:30 - 13:50|  | Opening/Registration     |   | 
+|      | 좌장 | Sang-il Oum 엄상일 (IBS) |   |
+| 14:00 - 15:00 |  Eun Jung Kim 김은정 | Algorithm and MSO logic on graphs with tree-like structure | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
+| 15:00 - 15:30 |  Yongho Shin 신용호   | Learning-augmented online bipartite fractional matching | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
 | 15:30 - 16:00 |  | coffee break | | 
-|     |  좌장 | 박종육 (경북대학교)  | |
-| 16:00 - 16:30 | 신희성   | 102-avoiding inversion sequences | <a href="#shin" class="lightLink">Abstract</a>   |
-| 16:30 - 17:00 | 이현우   | Random matchings in linear hypergraphs | <a href="#hyunwoolee" class="lightLink">Abstract</a> |
-| 17:00 - 17:30 | 이재호   | Towards a classification of 1-homogeneous graphs with positive intersection number $a_1$ |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
+|     |  좌장 | 김효빈 (전남대학교)  | |
+| 16:00 - 16:30 | Dabeen Lee 이다빈   | Combinatorial optimization through the lens of boolean polynomials and binary matroids | <a href="#shin" class="lightLink">Abstract</a>   |
+| 16:30 - 17:00 | Seonghyuk Im 임성혁  | Random perturbation of dense graphs | <a href="#hyunwoolee" class="lightLink">Abstract</a> |
+| 17:00 - 17:30 | Hyunwoo Lee 이현우  | On a Ramsey–Turán variant of Roth’s theorem |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
+| 17:00 - 17:30 | Ingyu Baek 백인규  | On attainable homomorphism
+domination exponents |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
 
 <br/>
 
-### 8월 29일 (목요일) 
+### 8월 19일 (화요일) 
 
 | Time     | Speaker | Content  | Notes | 
 |-------- |:------:  |-------|----|  
@@ -45,7 +48,7 @@ layout: ko
 
 <br/>
 
-### 8월 30일 (금요일) 
+### 8월 20일 (수요일) 
 
 | Time     | Speaker | Content  | Notes | 
 |-------- |:------:  |-------|----|  
