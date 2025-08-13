@@ -30,6 +30,8 @@ layout: ko
 
 ## 일정 
 
+[일정](/schedule)
+
 [초록집 (Program Book)](/assets/booklet.pdf)
 
 ## 등록 

@@ -2,6 +2,8 @@ menu:
 
 - title: Home
   url: /
+- title: 일정 
+  url: /schedule
 - title: 역사
   url: /history.html
 - title: English
@@ -12,6 +14,8 @@ menuen:
 
 - title: Home
   url: /en/
+- title: Schedule 
+  url: /en/schedule
 - title: History
   url: /en/history.html
 - title: 한국어

@@ -30,6 +30,8 @@ If you are interested in giving a contributed talk at the workshop, please submi
 
 ## Program
 
+[Schedule](/en/schedule)
+
 [Program Book](/assets/booklet.pdf)
 
 
