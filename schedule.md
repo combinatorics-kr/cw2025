@@ -4,225 +4,482 @@ layout: ko
 
 # Schedule 
 
+
 - Program Booklet (<a href="/assets/booklet.pdf" target="_blank">다운로드</a>)
 
-### 8월 18일 (Monday) 
+<style>
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        line-height: 1.6;
+        color: #333;
+    }
+    main h2 {
+        border-bottom: 2px solid #007bff;
+        padding-bottom: 10px;
+        margin-top: 40px;
+    }
+    main table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+        font-size: 0.9em;
+    }
+    main th, main td {
+        border: 1px solid #ddd;
+        padding: 12px;
+        text-align: left;
+        vertical-align: top;
+    }
+    main th {
+        background-color: #f8f9fa;
+        font-weight: bold;
+    }
+    main tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+    .chair-row {
+        background-color: #e9ecef;
+        font-style: italic;
+    }
+    .break-row {
+        background-color: #fffbe6;
+        text-align: center;
+    }
+    .talk-title {
+        color: #0056b3;
+        text-decoration: none;
+        cursor: pointer;
+        font-weight: bold;
+    }
+    .talk-title:hover {
+        text-decoration: underline;
+    }
+    .abstract {
+        display: none;
+        margin-top: 10px;
+        padding: 15px;
+        background-color: #fdfdfd;
+        border-left: 3px solid #007bff;
+        font-size: 0.95em;
+    }
+    .abstract p {
+        margin: 0;
+    }
+    .speaker-info {
+        font-size: 0.9em;
+        color: #555;
+    }
+    .talk-type {
+        font-weight: bold;
+        color: #d9534f;
+    }
+</style>
+# Monday, August 18, 2025 
 
-| Time     | Speaker | Content  | Notes | 
-|--------- |:-------:  |-------|----|  
-| 13:30 - 14:00 |  | Registration / Welcome remarks     |   | 
-|      | 좌장 | 엄상일 (IBS) |   |
-| 14:00 - 15:00 |  Eun Jung Kim 김은정 | Algorithm and MSO logic on graphs with tree-like structure | <a href="#EunJungKim" class="lightLink">Abstract</a>  |
-| 15:00 - 15:30 |  Yongho Shin 신용호   | Learning-augmented online bipartite fractional matching | <a href="#YonghoShin" class="lightLink">Abstract</a>  |
-| 15:30 - 16:00 |  | Coffee break | | 
-|     |  좌장 | 김효빈 (전남대학교)  | |
-| 16:00 - 16:30 | Dabeen Lee 이다빈   | Combinatorial optimization through the lens of boolean polynomials and binary matroids | <a href="#DabeenLee" class="lightLink">Abstract</a>   |
-| 16:30 - 17:00 | Seonghyuk Im 임성혁  | Random perturbation of dense graphs | <a href="#SeonghyukIm" class="lightLink">Abstract</a> |
-| 17:00 - 17:30 | Hyunwoo Lee 이현우  | On a Ramsey–Turán variant of Roth’s theorem |  <a href="#HyunwooLee" class="lightLink">Abstract</a> | 
-| 17:30 - 18:00 | Ingyu Baek 백인규  | On attainable homomorphism domination exponents |  <a href="#IngyuBaek" class="lightLink">Abstract</a> | 
-| 18:00 -  |  | Dinner | <a href="#baek" class="lightLink">Abstract</a>   | 
+<table>
+    <colgroup>
+        <col style="width:15%;">
+        <col style="width:25%;">
+        <col style="width:60%;">
+    </colgroup>
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Speaker</th>
+            <th>Title / Event</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>13:30-13:50</td>
+            <td colspan="2">Registration</td>
+        </tr>
+        <tr>
+            <td>13:50-14:00</td>
+            <td colspan="2">Welcome remarks</td>
+        </tr>
+        <tr class="chair-row">
+            <td colspan="3">14:00-15:30 &nbsp;&nbsp;&nbsp;<strong>CHAIR:</strong> Sang-il Oum 엄상일 (IBS)</td>
+        </tr>
+        <tr>
+            <td rowspan="2">14:00-15:00</td>
+            <td rowspan="2">
+                Eun Jung Kim 김은정 <br>
+                <span class="speaker-info">KAIST & IBS DIMAG & CNRS</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract1')">Algorithm and MSO logic on graphs with tree-like structure</a>
+                <span class="talk-type">[IS]</span>
+                <div id="abstract1" class="abstract">
+                    <p>A finite-state automaton is a computing machine ("algorithm") of primitive form, which scans a given string over a finite alphabet, e.g. a string consisting of 0's and 1's, and decides if the given string is in some language. It is primitive in the sense that the machine does not have a memory, and the machine keeps track of the inner working of the algorithm by having a "state", out of a finite number of possible states, which is updated according to a hard-wired rule as the machine reads the symbols on the input string one by one. A set of strings ("language") recognized by a finite automaton is known as a regular language. It is well-known that a regular language is precisely described by a homomorphism from the set of all strings to a finite semigroup. A less known but nonetheless important is that a language is regular if and only it is defined by so called Monadic Second Order Logic (Büchi-Elgot-Trakhtenbrot 1960), MSO logic in short. As a consequence, a language that can be defined using MSO logic admits an efficient algorithm for membership test, marking a regular language precisely as a language in which logical, algebraic and algorithmic behavior squarely meet. And these nice characterizations generalize to labelled trees, which extends the path-like shape inherent in strings (Thatcher and Wright, 1968). Courcelle's theorem (Courcelle 1990, Courcelle-Makowski-Rotices 2000) radically broadened the applications of Büchi-Elgot-Trakhtenbrot theorem on the equivalence of "recognizability and definability" on strings. Many fundamental graph problems can be expressed using MSO logic. And many such problems can be efficiently solved via so-called dynamic programming algorithms when the input graph is tree-like, e.g. has constant treewidth or constant cliquewidth. Courcelle's theorem revealed that the availability of dynamic programming algorithms for those problems is not a coincidence by showing that any MSO-definable graph problem has a nice algebraic property. This in turn leads to a meta-algorithm, which is a finite-state (tree) automaton in essence. Whether the opposite implication holds on graph with tree-like structures, thus allowing a nice characterization akin to those on strings and labelled trees, was asked by Courcelle himself (1990). The converse statement of Courcelle's theorem turns out to hold. It is proved by Bojańczyk and Pilipczuk (2016) that if such a nice algebraic property holds for a graph property, the property admits a logical description by MSO logic on graphs of bounded treewidth. As Courcelle's theorem holds on graphs of bounded cliquewidth as well as on matroids of bounded branchwidth when representable over a finite field, it is conjectured that "recognizability equals definability" on these more general structures. In this talk, we overview how algorithms design is intrinsically intertwined with algebraic and logical aspects of problems on graphs with tree-like structure. We also give a brief overview on essential, powerful tools for tackling these conjectures. </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+            <td>15:00-15:30</td>
+            <td>
+                Yongho Shin 신용호 <br>
+                <span class="speaker-info">University of Wrocław</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract2')">Learning-augmented online bipartite fractional matching</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract2" class="abstract">
+                    <p><strong>Authors:</strong> Davin Choo, Billy Jin, Yongho Shin<br>Online bipartite matching is a fundamental problem in online optimization, extensively studied both in its integral and fractional forms due to its theoretical significance and practical applications, such as online advertising and resource allocation. Motivated by recent progress in learning-augmented algorithms, we study online bipartite fractional matching when the algorithm is given advice in the form of a suggested matching in each iteration. We develop algorithms for both the vertex-weighted and unweighted variants that provably dominate the naive "coin flip" strategy of randomly choosing between the advice-following and advice-free algorithms. Moreover, our algorithm for the vertex-weighted setting extends to the AdWords problem under the small bids assumption, yielding a significant improvement over the seminal work of Mahdian, Nazerzadeh, and Saberi (EC 2007, TALG 2012). Complementing our positive results, we establish a hardness bound on the robustness-consistency tradeoff that is attainable by any algorithm. We empirically validate our algorithms through experiments on synthetic and real-world data. </p>
+                </div>
+            </td>
+        </tr>
+        <tr class="break-row">
+            <td>15:30-16:00</td>
+            <td colspan="2">Coffee Break</td>
+        </tr>
+        <tr class="chair-row">
+            <td colspan="3">16:00-18:00 &nbsp;&nbsp;&nbsp;<strong>CHAIR:</strong> Hyobeen Kim 김효빈 (Chonnam National University)</td>
+        </tr>
+        <tr>
+            <td>16:00-16:30</td>
+            <td>
+                Dabeen Lee 이다빈 <br>
+                <span class="speaker-info">KAIST</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract3')">Combinatorial optimization through the lens of boolean polynomials and binary matroids</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract3" class="abstract">
+                    <p><strong>Authors:</strong> Ahmad Abdi, Dabeen Lee<br>Combinatorial optimization is the problem of choosing an optimal combination of items from a discrete set of elements. One of the most pressing challenges in modern applications is to develop efficient methodologies for nonlinear combinatorial optimization. In this talk, we introduce a novel approach to solving nonlinear problems through the lens of boolean polynomials and binary matroids. Discovering previously unrecognized connections to binary matroids, we develop a new framework for linearizing the equivalent boolean polynomial optimization formulation. We provide a simple characterization for the convex hull of binary solutions to the linearization when the underlying binary matroid is a projective geometry, which contains all binary matroids over the same ground set as restrictions. We also show that if the matroid satisfies the sums of circuits property, then the convex hull coincides with the associated cocycle polytope. Moreover, taking the signs of the objective coefficients into account, we extend the sums of circuits property to idealness of binary clutters via signed binary matroids. To go further beyond the sums of circuits property, we present a sum-of-squares hierarchy that admits efficient semidefinite relaxations. Lastly, we explain extensions to discrete optimization over any finite fields. </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>16:30-17:00</td>
+            <td>
+                Seonghyuk Im 임성혁 <br>
+                <span class="speaker-info">KAIT & IBS ECOPRO</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract4')">Random perturbation of dense graphs</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract4" class="abstract">
+                    <p><strong>Authors:</strong> Jie Han, Seonghyuk Im, Bin Wang, Junxue Zhang<br>A randomly perturbed graph is formed by taking the union of a deterministic graph G and a binomial random graph G(n,p) on the same vertex set. Balogh, Treglown, and Wagner showed that for a fixed graph F, if p &gg; n<sup>-1/m<sub>1</sub>(F)</sup> and an n-vertex graph G has the minimum degree &delta;(n), then the graph G &cup; G(n,p) contains an F-factor with high probability. We extend their result by proving that if F is not a forest, then it suffices to assume e(G) = &Omega;(n<sup>2</sup>), relaxing the minimum degree condition. Additionally, we establish analogous results for powers of Hamilton cycles and for families of graphs with bounded maximum degree in a randomly perturbed graph. </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>17:00-17:30</td>
+            <td>
+                Hyunwoo Lee 이현우 <br>
+                <span class="speaker-info">KAIST & IBS ECOPRO</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract5')">On a Ramsey-Turán variant of Roth's theorem</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract5" class="abstract">
+                    <p><strong>Authors:</strong> Matija Bucić, Micha Christoph, Jaehoon Kim, Hyunwoo Lee, Varun Sivashankar<br>A classical theorem of Roth states that the maximum size of a solution-free set of a homogeneous linear equation L in F<sub>p</sub> is o(p) if and only if the sum of the coefficients of L is 0. In this paper, we prove a Ramsey-Turán variant of Roth's theorem, with respect to a natural notion of "structured" sets introduced by Erdős and Sárközy in the 1970's. Namely, we show that the following statements are equivalent: (a) Every solution-free set A of L in F<sub>p</sub> with &alpha;(Cay<sub>P&#773;<sub>p</sub></sub>(A))=o(p) has size o(p). (b) There exists a non-empty subset of coefficients of L with zero sum. </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>17:30-18:00</td>
+            <td>
+                Ingyu Baek 백인규 <br>
+                <span class="speaker-info">Yonsei University</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract6')">Counting loose odd cycles in dense hypergraphs</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract6" class="abstract">
+                    <p><strong>Authors:</strong> Ingyu Baek, Joonkyung Lee<br>Sidorenko's conjecture states that, for all bipartite graphs H, quasirandom graphs asymptotically minimises the number of copies of H taken over all graphs with fixed density p. Although this conjecture has remained open for decades, its natural hypergraph generalisa-tion is known to be false since Sidorenko's own work in the 1990s, which shows that, for a 3-uniform loose 3-cycle C<sub>3</sub><sup>(3)</sup>, there exists a 3-uniform hypergraph G with edge density p such that t(C<sub>3</sub><sup>(3)</sup>,G) &lt; p<sup>3</sup>, where t(H,G) denotes the homomorphism density of H in G. In 2020, with interesting applications in additive combinatorics, Fox, Sah, Sawhney, Stoner, and Zhao showed that the inequality t(C<sub>3</sub><sup>(3)</sup>,G) &ge; p<sup>4</sup> holds and furthermore, the exponent 4 cannot be improved by a smaller number. The tightness of the exponent is demonstrated by Behrend's 3-AP-free set construction, which necessarily requires p tending to zero as |V(G)| tends to infinity. One may then ask whether the tightness of the exponent in the Fox-Sah-Sawhney-Stoner-Zhao inequality can be evidenced by an arbitrary 'dense' hypergraph G, e.g., p=1/2. An analogous question for graphs was recently asked by Blekherman, Raymond, Razborov, and Wei. We answer this question in the negative, by obtaining nontrivial lower-order terms in the lower bound for t(C<sub>3</sub><sup>(3)</sup>,G) beyond p<sup>4</sup>. Our method also generalises to longer loose odd cycles, which can be seen as a progress towards a recent question of Spiro and Nie. </p>
+                </div>
+            </td>
+        </tr>
+         <tr class="break-row">
+            <td>19:00-21:00</td>
+            <td colspan="2">Dinner (고반식당 대전엑스포점)</td>
+        </tr>
+    </tbody>
+</table>
 
-<br/>
+# Tuesday, August 19, 2025
+<table>
+    <colgroup>
+        <col style="width:15%;">
+        <col style="width:25%;">
+        <col style="width:60%;">
+    </colgroup>
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Speaker</th>
+            <th>Title / Event</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="chair-row">
+            <td colspan="3">09:00-10:30 &nbsp;&nbsp;&nbsp;<strong>CHAIR:</strong> Seunghyun Seo 서승현 (Kangwon National University)</td>
+        </tr>
+        <tr>
+            <td rowspan="2">09:30-10:30</td>
+            <td rowspan="2">
+                Dongsu Kim 김동수 <br>
+                <span class="speaker-info">KAIST</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract7')">Combinatorics of orthogonal polynomials in the q-Askey scheme</a>
+                <span class="talk-type">[IS]</span>
+                <div id="abstract7" class="abstract">
+                    <p>Combinatorics of orthogonal polynomials has been studied from 1980's. There are various combinatorial interpretations for important orthogonal polynomials and their properties. Orthogonal polynomials in q-Askey scheme have q-factorials in their terms and coefficients. A nice combinatorial model to handle q-factorials has been introduced in Lecture hall graphs and the Askey scheme, by S. Corteel, B. Jonnadula, J. Keating, J. S. Kim, arXiv:2311.12761v2. This talk is a history of the combinatorics of orthogonal polynomials up to the above paper. </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+        </tr>
+        <tr class="break-row">
+            <td>10:30-11:00</td>
+            <td colspan="2">Coffee Break</td>
+        </tr>
+        <tr class="chair-row">
+            <td colspan="3">11:00-12:00 &nbsp;&nbsp;&nbsp;<strong>CHAIR:</strong> Joonkyung Lee 이준경 (Yonsei University)</td>
+        </tr>
+        <tr>
+            <td>11:00-11:30</td>
+            <td>
+                Heesung Shin 신희성 <br>
+                <span class="speaker-info">Inha University</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract8')">Combinatorial Bijections in Permutations, Trees, and Paths</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract8" class="abstract">
+                    <p>This presentation traces my two-decade journey exploring combinatorial bijections in enumerative combinatorics. My research establishes strong connections and provides combinatorial interpretations for algebraic identities between permutations, trees (rooted, ordered, labeled, p-ary), and lattice paths (Dyck, Schröder, Delannoy, F-paths). Key contributions include bijections for pattern-avoiding inversion sequences and permutations, refined enumerations of trees based on various properties like indegree sequences and maximal decreasing subtrees, and analysis of lattice paths with avoidance conditions. The work also covers bijections for parking functions and involutions on partitions for hook length symmetry. This talk emphasizes the power of bijections in solving problems and revealing new connections in combinatorial theory. </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>11:30-12:00</td>
+            <td>
+                Younghan Yoon 윤영한 <br>
+                <span class="speaker-info">Ajou University</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract9')">On the graph a-numbers</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract9" class="abstract">
+                    <p><strong>Authors:</strong> Suyoung Choi, Younghan Yoon<br>We introduce combinatorial invariants, called a-numbers, of finite simple graphs, motivated by toric topology. These invariants exactly correspond to the Betti numbers of the canonical real toric variety associated with graphs. In this talk, we explore two fundamental questions about the behavior of the a-numbers: 1. Are they monotone increasing under edge inclusion? 2. Do they form a unimodal sequence? </p>
+                </div>
+            </td>
+        </tr>
+        <tr class="break-row">
+            <td>12:00-13:30</td>
+            <td colspan="2">Lunch Break</td>
+        </tr>
+        <tr class="chair-row">
+            <td colspan="3">13:30-15:30 &nbsp;&nbsp;&nbsp;<strong>CHAIR:</strong> Hayan Nam 남하얀 (Konkuk University)</td>
+        </tr>
+        <tr>
+            <td rowspan="2">13:30-14:30</td>
+            <td rowspan="2">
+                Ae Ja Yee 이애자 <br>
+                <span class="speaker-info">Pennsylvania State University</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract10')">Partition statistics and the Littlewood decomposition</a>
+                <span class="talk-type">[IS]</span>
+                <div id="abstract10" class="abstract">
+                    <p>(in honor of Professor Dongsu Kim's retirement)<br>Integer partitions carry various interesting statistics. Of those, the most loved and studied statistics are Dyson's rank and crank, which explain Ramanujan's mod 5, 7 and 11 partition congruences. In 1990, Garvan, Kim and Stanton found other cranks, which split the set of partitions into t equinumerous classes for t=5,7,11 and thus give a combinatorial account for the three congruences of Ramanujan. In their proof, the Littlewood decomposition of partitions into t-core and t-quotient partitions is an essential component. Since then, their cranks along with Dyson's rank and crank have been adopted to prove other partition congruences and refinements. In this talk, I will discuss the Littlewood decomposition from a partition theory point of view and present some recent results on various partition statistics arising from the Littlewood decomposition. This talk is based on joint work with Hyunsoo Cho, Byungchan Kim and Eunmi Kim. </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+            <td>14:30-15:00</td>
+            <td>
+                Inseo Kim 김인서 <br>
+                <span class="speaker-info">Chungbuk National University</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract11')">On toric Schubert varieties in flag varieties</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract11" class="abstract">
+                    <p><strong>Authors:</strong> Inseo Kim, Eunjeong Lee<br>Let G be a simple algebraic group over C, and let P be a parabolic subgroup of G. A flag variety G/P is a smooth projective homogeneous variety that admits an action of a maximal torus T of G, where T is contained in the parabolic subgroup P. Schubert varieties form an interesting family of T-invariant subvarieties of G/P indexed by elements of a certain coset of the Weyl group of G. Note that not every Schubert variety is toric with respect to the induced T-action. In this talk, we consider toric Schubert varieties in G/P when G is of type A. </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>15:00-15:30</td>
+            <td>
+                Seonkyung Kim 김선경 <br>
+                <span class="speaker-info">Kangwon National University</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract12')">The largest size of an (s,s+2)-core partition with even or odd parts only</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract12" class="abstract">
+                    <p><strong>Authors:</strong> Hyoeun Cho, Seong hyeon Hwan, Seonkyung Kim, Hayan Nam<br>Olsson and Stanton initiated the computation of the largest size of a simultaneous core partition. Since then, there have been various works on the largest size of a core partition. In particular, Nam and Yu computed the largest size of an (s,s+1)-core partition, where all the parts are of the same parity. In this paper, we evaluate the largest size of an (s,s+2)-core partition, where all the parts are of the same parity. </p>
+                </div>
+            </td>
+        </tr>
+        <tr class="break-row">
+            <td>15:30-16:00</td>
+            <td colspan="2">Coffee Break</td>
+        </tr>
+        <tr class="chair-row">
+            <td colspan="3">16:00-18:00 &nbsp;&nbsp;&nbsp;<strong>CHAIR:</strong> Sangwook Kim 김상욱 (Chonnam National University)</td>
+        </tr>
+        <tr>
+            <td rowspan="2">16:00-17:00</td>
+            <td rowspan="2">
+                Zhicong Lin <br>
+                <span class="speaker-info">Shandong University</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract13')">Tree structures and combinatorics of bi-y positivity</a>
+                <span class="talk-type">[IS]</span>
+                <div id="abstract13" class="abstract">
+                    <p>Multiset Eulerian polynomials and 1/k-Eulerian polynomials are different generalizations of the classical Eulerian polynomials. I will talk about combinatorics of their bi-y-positivity via tree structures. </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+            <td>17:00-17:30</td>
+            <td>
+                Seunghun Lee 이승훈 <br>
+                <span class="speaker-info">IBS DIMAG</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract14')">On the extension problem on the moment curve</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract14" class="abstract">
+                    <p><strong>Authors:</strong> Seunghun Lee, Eran Nevo<br>We show that for 2 &le; d &le; 4 every finite geometric simplicial complex &Delta; with vertices on the moment curve in R<sup>d</sup> can be extended to a triangulation T of the cyclic polytope C where &Delta; T and C all have same vertex set. Further, for d &ge; 5 we construct complexes &Delta; for which no such triangulations T exist. </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>17:30-18:00</td>
+            <td>
+                Seonghyeon Yu 유성현 <br>
+                <span class="speaker-info">Ajou University</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract15')">Bier spheres and their full subcomplexes</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract15" class="abstract">
+                    <p><strong>Authors:</strong> Suyoung Choi, Younghan Yoon, Seonghyeon Yu<br>In 1992, Thomas Bier introduced a combinatorial construction that yields a large family of simplicial (m-2)-dimensional PL-spheres on 2m vertices. In algebraic topology, the full subcomplexes of a simplicial complex K often provide significant information about topological invariants of K or the topological space associated with K. In this talk, we will discuss full subcomplexes and the bigraded Betti numbers of Bier spheres. </p>
+                </div>
+            </td>
+        </tr>
+        <tr class="break-row">
+            <td>18:00-</td>
+            <td colspan="2">Conference Banquet at IBS</td>
+        </tr>
+    </tbody>
+</table>
 
-### 8월 19일 (Tuesday) 
+# Wednesday, August 20, 2025
 
-| Time     | Speaker | Content  | Notes | 
-|--------- |:-------:  |-------|----|  
-|  |  좌장 |  서승현 (강원대학교)   |  |
-| 09:30 - 10:30 |  Dongsu Kim 김동수  | Combinatorics of orthogonal polynomials in the $𝑞$-Askey scheme |  <a href="#DongsuKim" class="lightLink">Abstract</a>  |
-| 10:30 - 11:00 |   |  Coffee break  |   |
-|  | 좌장  | 이준경 (연세대학교) |  |
-| 11:00 - 11:30 | Heesung Shin 신희성 | Combinatorial bijections in permutations, trees, and paths | <a href="#HeesungShin" class="lightLink">Abstract</a>  |
-| 11:30 - 12:00 | Younghan Yoon 윤영한 | On the graph $𝑎$-numbers | <a href="#YounghanYoon" class="lightLink">Abstract</a>  |
-| 11:30 - 13:30 |     |  Lunch    |   | 
-|  | 좌장   | 남하얀 (덕성여자대학교)   |  |
-| 13:30 - 14:30 | Ae Ja Yee 이애자 | Partition statistics and the Littlewood decomposition |  <a href="#AeJaYee" class="lightLink">Abstract</a>  |
-| 14:30 - 15:00 | Inseo Kim 김인서 |On toric Schubert varieties in flag varieties |  <a href="#InseoKim" class="lightLink">Abstract</a>  |
-| 15:30 - 15:30 | Seonkyung Kim 김선경 | The largest size of an $(𝑠, 𝑠 + 2)$-core partition with even or odd parts only |  <a href="#SeonkyungKim" class="lightLink">Abstract</a>  |
-| 15:30 - 16:00 |    | Coffee break  |   |
-|  | 좌장   | 김상욱 (전남대학교)  |  |
-| 16:00 - 17:00 | Zhicong Lin | Tree structures and combinatorics of bi-$\gamma$ positivity |  <a href="#ZhicongLin" class="lightLink">Abstract</a> |
-| 17:00 - 17:30 | Seunghun Lee 이승훈 | On the extension problem on the moment curve | <a href="#SeunghunLee" class="lightLink">Abstract</a> |
-| 17:30 - 18:00 | Seonghyeon Yu 유성현 | Bier spheres and their full subcomplexes |  <a href="#SeonghyeonYu" class="lightLink">Abstract</a>  | 
-| 18:00 -  |  | Conference banquet at IBS | <a href="#baek" class="lightLink">Abstract</a>   | 
+<table>
+    <colgroup>
+        <col style="width:15%;">
+        <col style="width:25%;">
+        <col style="width:60%;">
+    </colgroup>
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Speaker</th>
+            <th>Title / Event</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="chair-row">
+            <td colspan="3">09:30-10:30 &nbsp;&nbsp;&nbsp;<strong>CHAIR:</strong> Young Soo Kwon 권영수 (Yeungnam University)</td>
+        </tr>
+        <tr>
+            <td rowspan="2">09:30-10:30</td>
+            <td rowspan="2">
+                O-joung Kwon 권오정 <br>
+                <span class="speaker-info">Hanyang University & IBS DIMAG</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract16')">On problems related to digraph width parameters</a>
+                <span class="talk-type">[IS]</span>
+                <div id="abstract16" class="abstract">
+                    <p>Treewidth is a well-known graph parameter that plays an important role in Robertson and Seymour's graph minors project. Several width parameters inspired by treewidth have been introduced for digraphs, including directed treewidth, directed pathwidth, DAG-width, Kelly-width, cycle rank, DAG-depth, and so on. Compared to undirected width parameters, finding unavoidable structures for digraph width parameters turns out to be very difficult. Recently, we provided a collection of three obstruction families for cycle rank in terms of butterfly minors. In this talk, we present this result and related open problems. This is joint work with Meike Hatzel, Myounghwan Lee, and Sebastian Wiederrecht. </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+        </tr>
+        <tr class="break-row">
+            <td>10:30-11:00</td>
+            <td colspan="2">Coffee Break</td>
+        </tr>
+        <tr class="chair-row">
+            <td colspan="3">11:00-12:30 &nbsp;&nbsp;&nbsp;<strong>CHAIR:</strong> Jongyook Park 박종육 (Kyungpook National University)</td>
+        </tr>
+        <tr>
+            <td>11:00-11:30</td>
+            <td>
+                Myounghwan Lee 이명환 <br>
+                <span class="speaker-info">Hanyang University</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract17')">Unavoidable butterfly minors in digraphs of large cycle rank</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract17" class="abstract">
+                    <p><strong>Authors:</strong> Meike Hatzel, O-joung Kwon, Myounghwan Lee, Sebastian Wiederrecht<br>Cycle rank is one of the depth parameters for digraphs introduced by Eggan in 1963. We show that there exists a function f:N→N such that every digraph of cycle rank at least f(k) contains a directed cycle chain, a directed ladder, or a directed tree chain of order k as a butterfly minor. Directed cycle chains and directed ladders are strongly connected digraphs that are obtained from an undirected path by splitting its edges or vertices in a specific way. A directed tree chain of order k is obtained from a directed path v<sub>1</sub>v<sub>2</sub>...v<sub>2<sup>k</sup></sub> by adding the edge (v<sub>2<sup>i</sup>j</sub>,v<sub>2<sup>i</sup>j+2<sup>i</sup>-1</sub>) for every i∈{1,...,k} and j∈{1,...,2<sup>k-i</sup>}. We also investigate a new connection between cycle rank and a directed analogue of the weak coloring number of graphs. </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>11:30-12:00</td>
+            <td>
+                Seokbeom Kim 김석범 <br>
+                <span class="speaker-info">KAIST & IBS DIMAG</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract18')">Subtournaments of tournaments of large clique-width</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract18" class="abstract">
+                    <p><strong>Authors:</strong> Seokbeom Kim, Taite LaGrange, Mathieu Rundström, Sophie Spirkl<br>If a graph has large clique-width, what can we say about its induced subgraphs? From classical results on clique-width, it is not hard to deduce that the class of H-free graphs has bounded clique-width if and only if H is an induced subgraph of a four-vertex path. Here, a graph is H-free if it has no induced subgraph isomorphic to H. Motivated by this result, there have been studies on the clique-width of graphs excluding two or more graphs as induced subgraphs, as well as H-free graphs with additional structural properties. In this talk, we investigate an analogue of this question for tournaments, which are a special type of directed graph. Again, what can we say about subtournaments of a tournament with large (directed) clique-width? We present recent progress on this question along with some open problems. </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>12:00-12:30</td>
+            <td>
+                Seog-Jin Kim 김석진 <br>
+                <span class="speaker-info">Konkuk University</span>
+            </td>
+            <td>
+                <a class="talk-title" onclick="toggleAbstract('abstract19')">The square of every subcubic planar graph without 4-cycles and 5-cycles is 7-choosable</a>
+                <span class="talk-type">[CT]</span>
+                <div id="abstract19" class="abstract">
+                    <p><strong>Authors:</strong> Ligang Jin, Yingli Kang, Seog-Jin Kim<br>The square of a graph G, denoted G<sup>2</sup>, has the same vertex set as G and has an edge between two vertices if the distance between them in G is at most 2. Thomassen (2018) proved that &chi;(G<sup>2</sup>) &le; 7 if G is a subcubic planar graph. A natural question is whether &chi;<sub>t</sub>(G<sup>2</sup>) &le; 7 or not if G is a subcubic planar graph. Recently, Kim and Lian (2024) proved that &chi;<sub>l</sub>(G<sup>2</sup>) &le; 7 if G is a subcubic planar graph of girth at least 6. In this paper, we prove that &chi;<sub>l</sub>(G<sup>2</sup>) &le; 7 if G is a subcubic planar graph without 4-cycles and 5-cycles, which improves the result of Kim and Lian. </p>
+                </div>
+            </td>
+        </tr>
+        <tr class="break-row">
+            <td>12:30-13:30</td>
+            <td colspan="2">Pizza Lunch</td>
+        </tr>
+    </tbody>
+</table>
 
-
-<br/>
-
-### 8월 20일 (Wednesday) 
-
-| Time     | Speaker | Content  | Notes | 
-|--------- |:-------:  |-------|----|  
-|  | 좌장  | 권영수 (영남대학교) |  |
-| 09:30 - 10:30 | O-joung Kwon 권오정 | On problems related to digraph width parameters |  <a href="#OjoungKwon" class="lightLink">Abstract</a> |
-| 10:30 - 11:00 |    | Coffee break  |    |
-|  | 좌장  | 박종육 (경북대학교)  |  |
-| 11:00 - 11:30 | Myounghwan Lee 이명환 | Unavoidable butterfly minors in digraphs of large cycle rank | <a href="#MyounghwanLee" class="lightLink">Abstract</a>   | 
-| 11:30 - 12:00 | Seokbeom Kim 김석범 | Subtournaments of tournaments of large clique-width | <a href="#SeokbeomKim" class="lightLink">Abstract</a>   | 
-| 12:00 - 12:30 | Seog-Jin Kim 김석진 | The square of every subcubic planar graph without $4$-cycles and $5$-cycles is $7$-choosable | <a href="#SeogJinKim" class="lightLink">Abstract</a>   | 
-| 12:30 - 13:30 |    | Pizza lunch  |  | 
-
-
-<br/>
-
-## 초청연사 (invited speakers)
-<p><a name="EunJungKim"></a></p>
-
-- Eun Jung Kim (KAIST & IBS DIMAG & CNRS)<br/>
-**Title**: Algorithm and MSO logic on graphs with tree-like structure<br/>
-**Abstract**: Ramsey numbers, denoted as  $R(s,t)$, are fundamental in graph theory, representing the smallest number of vertices $n$ such that every graph 
-on $n$ vertices either contains a clique of size $s$ or an independent set of size $t$. Recent developments in Ramsey theory have focused on finding asymptotic bounds for Ramsey numbers.<br/>
-In this talk, we survey asymptotic bounds of Ramsey Numbers $R(3,t)$ and $R(4,t)$, including significant contributions of Sam Mattheus and Jacques Verstraete on $R(4,t)$.
-
-<p><a name="DongsuKim"></a></p>
-
-- Dongsu Kim (KAIST)<br/>
-**Title**: Combinatorics of orthogonal polynomials in the $𝑞$-Askey scheme <br/>
-**Abstract**: We present extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes, providing a common generalization to the topological colorful Helly theorem by Kalai and Meshulam, the very colorful Helly theorem by Arocha et al., and the semi-intersecting colorful Helly theorem by Karasev and Montejano. As an application, we obtain a strengthened version of Tverberg's theorem. This is joint work with Alan Lew.
-
-<p><a name="AeJaYee"></a></p>
-
-- Ae Ja Yee (Pennsylvania State University) <br/>
-**Title**: Partition statistics and the Littlewood decomposition<br/>
-**Abstract**: The 1-skeleton of a convex polytope $P$ is called the graph of $P$.
-A graph of a simplicial $d$-polytope is said to be $\textit{toric colorable}$ if there is a vertex coloring $\lambda \colon V(G) \to \mathbb{Z}^d$ such that $\{v_1, \ldots, v_d\}$ forms a face of $P$ implies that $\{\lambda(v_1), \ldots, \lambda(v_d)\}$ is unimodular.<br/>
-In this talk, we discuss the toric colorability of graphs of simplicial $d$-polytopes with $d+4$ vertices.
-
-<p><a name="ZhicongLin"></a></p>
-
-- Zhicong Lin (Shandong University) <br/>
-**Title**: Tree structures and combinatorics of bi-$\gamma$ positivity<br/>
-**Abstract**: Lusztig $q$ weight multiplicity is a polynomial in $q$ whose positivity has been verified by linking it to a specific affine Kazhdan-Lusztig polynomial. However, a combinatorial formula beyond type A has not been known until recently.<br/>
-In $2019$, Lee proposed a combinatorial formula for type C using a novel combinatorial concept known as semistandard oscillating tableaux. We will outline the proof of Lee's conjecture and discuss how it can be extended to type B spin weights case.<br/>
-Based on joint work with Hyeonjae Choi and Seung Jin Lee.
-
-<p><a name="OjoungKwon"></a></p>
-
-- O-joung Kwon (Hanyang University & IBS DIMAG) <br/>
-**Title**: On problems related to digraph width parameters<br/>
-**Abstract**: In $2019$, Butler, Choi, Kim, and Seo introduced a new type of juggling card that represents multiplex juggling patterns in a
-  natural bijective way. They conjectured a formula for the generating function for the number of multiplex juggling cards with capacity.
-  In this paper we prove their conjecture. More generally, we find an explicit formula for the generating function with any capacity. We
-  also find an expression for the generating function for multiplex juggling card sequences by introducing a generalization of the $q$-derivative operator. As a consequence, we show that this generating function is a rational function.
-
-
-## 일반강연 (Constributed Talks) 
-
-<p><a name="YonghoShin"></a></p>
-
-- Yongho Shin (University of Wrocław) <br/>
-**Title**: Learning-augmented online bipartite fractional matching<br/>
-**Abstract**: A sequence $(e_1,e_2,\cdots ,e_n)$ is an inversion sequences if $0 \le e_i < i$ for all $i = 1,...,n$. We say that an inversion sequences $e = (e_1, e_2, \cdots , e_n)$ $\textit{contains}$ the pattern 102 if there exist some indices $i < j < k$ such that $e_j < e_i < e_k$. Otherwise, $e$ is said to $\textit{avoid}$ the pattern 102.
-In this talk, we will construct a correspondence between the set of 2-Schröder paths without peaks and valleys ending with a diagonal step and the set of 102-avoiding inversion sequences. This is the joint work with JiSun Huh, Sangwook Kim, and Seunghyun Seo.
-
-<p><a name="DabeenLee"></a></p>
-
-- Dabeen Lee (KAIST) <br/>
-**Title**: Combinatorial optimization through the lens of boolean polynomials and binary matroids <br/>
-**Abstract**: For a given hypergraph $H$ and a vertex $v \in V (H)$, consider a random matching $M$ chosen uniformly from the set of all matchings in $H$. In 1995, Kahn conjectured that if $H$ is a $d$-regular linear $k$-uniform hypergraph, the probability that $M$ does not cover $v$ is  $(1+o_d(1))d^{−1/k}$ for all vertices $v \in V (H)$. This conjecture was proved for $k = 2$ by Kahn and Kim in 1998.<br/>
-We disprove this conjecture for all $k \ge 3$. For infinitely many values of $d$, we construct $d$-regular
-linear $k$-uniform hypergraph $H$ containing two vertices $v_1$ and $v_2$ such that $P(v_1 \not\in  M) =
-1 − \frac{(1+o_d(1))}{d^{k-2}}$ and $P(v\not\in M) = \frac{(1+o_d(1))}{d+1}$. The gap between $\mathcal{P}(v\not\in M)$ and $\mathcal{P}(v \not\in M)$ 
-in this $H$ is best possible. In the course of proving this, we also prove a hypergraph analog of Godsil’s result on matching polynomials and paths in graphs, which is of independent interest.
-
-<p><a name="SeonghyukIm"></a></p>
-
-- Seonghyuk Im (KAIT & IBS ECOPRO)<br/>
-**Title**: Random perturbation of dense graphs <br/>
-**Abstract**: Let $\Gamma$ be a graph with diameter at least two. Then Γ is said to be 1-homogeneous (in the sense of Nomura) whenever for every pair of adjacent vertices $x$ and $y$ in $\Gamma$, the distance partition of the vertex set of $\Gamma$ with respect to both $x$ and $y$ is equitable, and the parameters corresponding to equitable partitions are independent of the choice of $x$ and $y$. Assume $\Gamma$ is 1-homogeneous distance-regular with intersection number $a_1 > 0$ and diameter $D \geqslant 5$. Define $b = b_1/(\theta_1 + 1)$, where $b_1$ is the intersection number and $\theta_1$ is the second largest eigenvalue of $\Gamma$. In this talk, we show that if intersection number $c_2 \geqslant 2$, then $b \geqslant 1$ and one of the following (i)–(vi) holds:<br/>
-  (i) $\Gamma$ is a regular near $2D$-gon,<br/>
-  (ii) $\Gamma$ is a Johnson graph $J(2D, D)$,<br/>
-  (iii) $\Gamma$ is a halved $l$-cube where $l \in \{2D, 2D+1\}$,<br/>
-  (iv) $\Gamma$ is a folded Johnson graph $\overline{J}(4D, 2D)$,<br/>
-  (v) $\Gamma$ is a folded halved $(4D)$-cube,<br/>
-   (vi) the valency of $\Gamma$ is bounded by a function of $b$.<br/>
-  Moreover, we characterize 1-homogeneous graphs with classical parameters and $a_1 > 0$, as well as tight distance-regular graphs.<br/>
-   This is a joint work with J. Koolen, M. Abdullah, B. Gebremichel.
-
-<p><a name="HyunwooLee"></a></p>
-
-- Hyunwoo Lee (KAIST & IBS ECOPRO)<br/>
-**Title**: On a Ramsey–Turán variant of Roth’s theorem <br/>
-**Abstract**: It is well-known that a tournament always contains a directed Hamilton path. Rosenfeld conjectured that if a tournament is sufficiently large,
-  it contains a Hamilton path of any given orientation. This conjecture was approved by Thomason, and Havet and Thomassé completely resolved it by showing there are exactly three exceptions.<br/>
-We generalized this result into a transversal setting. Let $T = \{T_1, . . . , T_{n−1}\}$ be a collection of tournaments on a common vertex set $V$ of size $n$. We showed that if $n$ is sufficiently large, there is a Hamilton path on $V$ of any given orientation which is obtained by collecting exactly one arc from each $T_i$. Such a path is said to be transversal.<br/>
-It is also a folklore that a strongly connected tournament always contains a directed Hamilton cycle. Rosenfeld made a conjecture for arbitrarily oriented Hamilton cycles in tournaments as well, which was approved by Thomason (for sufficiently large tournaments) and Zein (by specifying all the exceptions). We also showed a transversal version of this result. Together with the aforementioned result, it extends our previous research, which is on transversal generalizations of existence of directed paths and cycles in tournaments.<br/>
-This is a joint work with Debsoumya Chakraborti, Jaehoon Kim, and Hyunwoo Lee.
-
-<p><a name="IngyuBaek"></a></p>
-
-- Ingyu Baek (Yonsei University) <br/>
-**Title**: On attainable homomorphism domination exponents <br/>
-**Abstract**: In this talk, we focus on the rational Betti numbers of real toric manifolds associated with chordal nestohedra.
-We introduce an explicit description for the Betti numbers using alternating $\mathcal{B}$-permutations for a chordal building set $\mathcal{B}$.
-We provide detailed computations for interesting cases of chordal nestohedra, including permutohedra, associahedra, stellohedra, Stanley-Pitman polytopes, and Hochschild polytopes. 
-This is joint work with Suyoung Choi.
-
-
-<p><a name="HeesungShin"></a></p>
-
-- Heesung Shin (Inha University) <br/>
-**Title**: Combinatorial bijections in permutations, trees, and paths <br/>
-**Abstract**: Bott manifolds are smooth projective toric varieties providing interesting avenues among topology, geometry, representation theory, and combinatorics. They are used to understand the geometric structure of Bott-Samelson-Demazure-Hansen (BSDH) varieties, which provide desingularizations of Schubert varieties. However, not all Bott manifolds originate from BSDH varieties. Those that do are specifically referred to as Bott manifolds of Bott-Samelson-Demazure-Hansen type. In this talk, we explore a relationship between Bott manifolds of BSDH type and partitions of ordered partitions. This talk is based on joint work with Jang Soo Kim and Eunjeong Lee.
-
-<p><a name="YounghanYoon"></a></p>
-
-- Younghan Yoon (Ajou University) <br/>
-**Title**: On the graph $𝑎$-numbers<br/>
-**Abstract**: The Vietoris-Rips complex, originally introduced by Leopold Vietoris in the early 1900s to develop a homology theory for metric spaces, has since found applications in various areas of mathematics. Eliyahu Rips and Mikhail Gromov further utilized it in their studies of hyperbolic groups. More recently, classifying the homotopy types of Vietoris-Rips complexes has become a significant problem in Topological Data Analysis and Global Metric Geometry. Understanding these complexes can enhance our grasp of the persistence barcode’s strength and provide lower bounds for the Gromov-Hausdorff distance between manifolds. In this talk, we will delve into these mo- tivations and introduce the precise connections between Vietoris-Rips complexes, hyperconvex metric spaces, and their homotopy types.
-
-<p><a name="InseoKim"></a></p>
-
-- Inseo Kim (Chungbuk National University) <br/>
-**Title**: On toric Schubert varieties in flag varieties<br/>
-**Abstract**: The $(k, r)$-incidence graph of a regular polytope P is the bipartite incidence graph between $k$-faces and $r$-faces of $P$. We obtain a general upper bound and a corresponding supersaturation result for the extremal number of the $(k, r)$-incidence graph of any regular polytope.
-This generalises recent results of Janzer and Sudakov, who obtained the same bound for hypercubes and bipartite Kneser graphs, and confirms the conjecture of Conlon and Lee on the extremal number of $K_{d,d}$-free bipartite graphs for certain $(k, r)$-incidence graphs.<br/>
-Our proof, based on the reflection group method developed by Conlon and Lee, presents the method in a purely algebraic manner.
-As a consequence, this puts a number of results, including the Janzer-Sudakov theorem, the Conlon-Lee theorem on weakly norming graphs, and Coregliano’s theorem on Sidorenko’s conjecture, in the unified framework and simplifies all the proofs.<br/>
-Joint work with David Conlon and Joonkyung Lee.
-
-<p><a name="SeonkyungKim"></a></p>
-
-- Seonkyung Kim (Kangwon National University) <br/>
-**Title**: The largest size of an $(𝑠, 𝑠 + 2)$-core partition with even or odd parts only <br/>
-**Abstract**: Orthogonal polynomials on the unit circle (OPUC) are a family of polynomials orthogonal with respect to integration on the unit circle in the complex plane. The values of these integrals can be obtained by calculating moments. Numerous combinatorial studies have explored the moments of various types of orthogonal polynomials, including classical orthogonal polynomials, Laurent biorthogonal polynomials, and orthogonal polynomials of type $R_I$.<br/>
-In this talk, we first explain how OPUC relate to these other variations. Next, we study the moments of OPUC from a combinatorial perspective, providing three path interpretations: Łukasiewicz paths, gentle Motzkin paths, and Schröder paths. Using these combinatorial interpretations, we derive explicit formulas for the generalized moments of some examples of OPUC, including the circular Jacobi polynomials and the Rogers–Szegő polynomials. Furthermore, we introduce several types of generalized linearization coefficients and provide combinatorial interpretations for each of them.
-
-<p><a name="SeunghunLee"></a></p>
-
-- Seunghun Lee (IBS DIMAG) <br/>
-**Title**: On the extension problem on the moment curve<br/>
-**Abstract**: Dress (1986) introduced matroids with coefficients offering a unified approach to ordinary matroids, representations of matroids over fields, and oriented matroids. Baker and Bowler (2019) extended this theory, whose result includes a partial field representation by Semple and Whittle (1996).<br/>
-I will present two generalizations of matroids with coefficients. One is about skew-symmetric matrices and even delta-matroids, based on joint work with Tong Jin. We deduce several results on the representability of even delta-matroids as applications. The other concerns symmetric matrices and new matroid-like objects called antisymmetric matroids. It extends old results on the representability of matroids by Tutte (1958) and basis graphs of matroids by Maurer (1973). These two generalizations involve an interesting interplay between Lagrangian orthogonal/symplectic Grassmannians and combinatorics.<br/>
-
-<p><a name="SeonghyeonYu"></a></p>
-
-- Seonghyeon Yu (Ajou University) <br/>
-**Title**: Bier spheres and their full subcomplexes<br/>
-**Abstract**: Dress (1986) introduced matroids with coefficients offering a unified approach to ordinary matroids, representations of matroids over fields, and oriented matroids. Baker and Bowler (2019) extended this theory, whose result includes a partial field representation by Semple and Whittle (1996).<br/>
-I will present two generalizations of matroids with coefficients. One is about skew-symmetric matrices and even delta-matroids, based on joint work with Tong Jin. We deduce several results on the representability of even delta-matroids as applications. The other concerns symmetric matrices and new matroid-like objects called antisymmetric matroids. It extends old results on the representability of matroids by Tutte (1958) and basis graphs of matroids by Maurer (1973). These two generalizations involve an interesting interplay between Lagrangian orthogonal/symplectic Grassmannians and combinatorics.<br/>
-
-
-<p><a name="MyounghwanLee"></a></p>
-
-- Myounghwan Lee (Hanyang University) <br/>
-**Title**: Unavoidable butterfly minors in digraphs of large cycle rank<br/>
-**Abstract**: Dress (1986) introduced matroids with coefficients offering a unified approach to ordinary matroids, representations of matroids over fields, and oriented matroids. Baker and Bowler (2019) extended this theory, whose result includes a partial field representation by Semple and Whittle (1996).<br/>
-I will present two generalizations of matroids with coefficients. One is about skew-symmetric matrices and even delta-matroids, based on joint work with Tong Jin. We deduce several results on the representability of even delta-matroids as applications. The other concerns symmetric matrices and new matroid-like objects called antisymmetric matroids. It extends old results on the representability of matroids by Tutte (1958) and basis graphs of matroids by Maurer (1973). These two generalizations involve an interesting interplay between Lagrangian orthogonal/symplectic Grassmannians and combinatorics.<br/>
-
-<p><a name="SeokbeomKim"></a></p>
-
-- Seokbeom Kim (KAIST & IBS DIMAG) <br/>
-**Title**: Subtournaments of tournaments of large clique-width<br/>
-**Abstract**: Dress (1986) introduced matroids with coefficients offering a unified approach to ordinary matroids, representations of matroids over fields, and oriented matroids. Baker and Bowler (2019) extended this theory, whose result includes a partial field representation by Semple and Whittle (1996).<br/>
-I will present two generalizations of matroids with coefficients. One is about skew-symmetric matrices and even delta-matroids, based on joint work with Tong Jin. We deduce several results on the representability of even delta-matroids as applications. The other concerns symmetric matrices and new matroid-like objects called antisymmetric matroids. It extends old results on the representability of matroids by Tutte (1958) and basis graphs of matroids by Maurer (1973). These two generalizations involve an interesting interplay between Lagrangian orthogonal/symplectic Grassmannians and combinatorics.<br/>
-
-<p><a name="SeogJinKim"></a></p>
-
-- Seog-Jin Kim (Konkuk University) <br/>
-**Title**: The square of every subcubic planar graph without $4$-cycles and $5$-cycles is $7$-choosable<br/>
-**Abstract**: Dress (1986) introduced matroids with coefficients offering a unified approach to ordinary matroids, representations of matroids over fields, and oriented matroids. Baker and Bowler (2019) extended this theory, whose result includes a partial field representation by Semple and Whittle (1996).<br/>
-I will present two generalizations of matroids with coefficients. One is about skew-symmetric matrices and even delta-matroids, based on joint work with Tong Jin. We deduce several results on the representability of even delta-matroids as applications. The other concerns symmetric matrices and new matroid-like objects called antisymmetric matroids. It extends old results on the representability of matroids by Tutte (1958) and basis graphs of matroids by Maurer (1973). These two generalizations involve an interesting interplay between Lagrangian orthogonal/symplectic Grassmannians and combinatorics.<br/>
+<script>
+    function toggleAbstract(id) {
+        var element = document.getElementById(id);
+        if (element.style.display === "none" || element.style.display === "") {
+            element.style.display = "block";
+        } else {
+            element.style.display = "none";
+        }
+    }
+</script>
 
 
 
@@ -241,3 +498,39 @@ I will present two generalizations of matroids with coefficients. One is about s
 
 
   
+
+
+
+
+
+
+
+
+<script>
+(function() {
+  // Toggle abstract rows when clicking the talk title
+  document.querySelectorAll('a.talk-open[data-id]').forEach(function(link) {
+    link.addEventListener('click', function(ev) {
+      const tr = link.closest('tr');
+      const absRow = tr && tr.nextElementSibling && tr.nextElementSibling.classList.contains('abstract-row')
+        ? tr.nextElementSibling
+        : null;
+      if (absRow) {
+        absRow.style.display = (absRow.style.display === 'table-row') ? 'none' : 'table-row';
+        ev.preventDefault();
+      }
+    });
+  });
+  // Make the "Abstract" link in the notes column behave the same as clicking the title
+  document.querySelectorAll('td .lightLink[href^="#"]').forEach(function(a) {
+    a.addEventListener('click', function(ev) {
+      const tr = a.closest('tr');
+      const titleLink = tr && tr.querySelector('a.talk-open[data-id]');
+      if (titleLink) {
+        titleLink.click();
+        ev.preventDefault();
+      }
+    });
+  });
+})();
+</script>
