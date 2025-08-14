@@ -57,6 +57,8 @@ layout: ko
 기초과학연구원 (IBS) 과학문화센터, 대전광역시 유성구 엑스포로 55 (34126)
 - 주차: 무료
 
+![Map](/assets/map.png)
+
 [찾아오시는 길](https://travel.dimag.kr/)
 
 ## 조직위원 

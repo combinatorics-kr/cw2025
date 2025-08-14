@@ -58,6 +58,9 @@ We provide dinners during the entire workshop and the lunch of the last day.
 2nd floor, IBS Science Culture Center, Expo-ro 55, Yuseong-gu, Daejeon, 34126, Republic of Korea
 
 - Parking: Free
+
+![Map](/assets/map.png)
+
 - [Travel Instruction](https://travel.dimag.kr)
 
 ## Organizing Committee
