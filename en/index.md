@@ -18,7 +18,7 @@ Using English is recommended if there are non-Korean participants in the audienc
 - [Dongsu Kim](https://mathsci.kaist.ac.kr/~dskim/) (KAIST)
 - [Eun Jung Kim](https://www.lamsade.dauphine.fr/~kim/) (KAIST)
 - [O-joung Kwon](http://ojkwon.com) (Hanyang University)
-- [Ae Ja Lee](https://science.psu.edu/math/people/auy2) (Pennsylvania State University)
+- [Ae Ja Yee](https://science.psu.edu/math/people/auy2) (Pennsylvania State University)
 - [Zhicong Lin](http://en.mis.sdu.edu.cn/info/1527/1399.htm) (Shandong University)
 
 
