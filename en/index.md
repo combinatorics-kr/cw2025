@@ -5,6 +5,8 @@ layout: en
 
 <!-- [한국어](/) -->
 
+[![Group Photos](/assets/group2025-small.jpg)](/assets/group2025-large.jpg)
+
 [Combinatorics Workshop (조합론 학술대회)](https://www.combinatorics.kr/workshop/combinatorics-workshop) is an annual conference for researchers in combinatorics and related areas in Korea.
 It was started in 2004 by the Yonsei University BK21 Research Group. Since 2013, this workshop has been advised by the committee of discrete mathematics of the Korean Mathematical Society. This year, it will occur at the Institute for Basic Science (IBS) in Daejeon from August 18 to August 20, 2025.
 
